@@ -9,7 +9,7 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/67.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3lv9ktza0t5uuljwhg0an/America-24.jpg?rlkey=0m8nu9i08admaor849f6itetu&st=4t0hri3b&dl=0 " group-title="NACIONALES",America 24
 http://liketv.xyz:80/Nicoriojacom/232107891234/52.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sfdmoblrt88rez1br7poo/Cronica-TV.jpg?rlkey=j3a24mtjuol9xp7ne6sj75km0&st=i146arjq&dl=0 ",group-title="NACIONALES",Cronica TV
-https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+http://liketv.xyz:80/Nicoriojacom/232107891234/159.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hmu2i3fvjp6qw3oggdzxu/TV-Publica.jpg?rlkey=xul4gd987vtbw4jgmz8q7vmi8&st=rw3ck9if&dl=0 " group-title="NACIONALES",TV.Publica
 http://liketv.xyz:80/Nicoriojacom/232107891234/107.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/y4ig2c0kaw9v3i6h1pi8b/CH-9-Bs-As.jpg?rlkey=o602ivo5jg72bua15w9m219bs&st=m0ihp5gr&dl=0 " group-title="NACIONALES",Canal 9 
@@ -83,7 +83,7 @@ https://videohd.live:19360/8090/8090.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/08vtuzbyts24yufcmk0ks/Chile-TV.jpg?rlkey=xpwkaz2gjyee74cbx6agun7g9&st=dxs19enm&dl=0 " group-title="EXTRANJEROS",Chile
-http://liketv.vip:80/Nicoriojacom/232107891234/258.ts
+http://liketv.vip:80/Nicoriojacom/232107891234/247.ts
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/dybtvdabkgt42lpnfek4m/Bolivia-TV.jpg?rlkey=jmu55fbm0y2bqrpaghhw7w5yz&st=9xujc6t1&dl=0" group-title="EXTRANJEROS",Bolivia
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q4cg28nrtraboox7nzeu5/Peru-TV.jpg?rlkey=rb1s99vaffviq6818o74sdhml&st=xnybn4cz&dl=0 " group-title="EXTRANJEROS",Peru
