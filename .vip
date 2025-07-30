@@ -184,8 +184,12 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/115313.ts
 http://liketv.xyz:80/Nicoriojacom/232107891234/88682.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/haj6ciqfewo32rh6voeko/TNT-Sports.jpg?rlkey=ochrxwyrh5dzefam1avojgp44&st=y85paw8y&dl=0 " group-title="DEPORTES",TNT Sports 2
 http://liketv.xyz:80/Nicoriojacom/232107891234/154.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 1
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 2
+http://liketv.xyz:80/Nicoriojacom/232107891234/7804.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 3
+http://liketv.xyz:80/Nicoriojacom/232107891234/115341.ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9azt22wyer3eg3kwczh0x/Baby-TV.jpg?rlkey=mmzmgaockmvrio0pwrzv90bp7&st=naddudh6&dl=0 " group-title="INFANTILES",Baby TV
@@ -322,303 +326,297 @@ http://liketv.vip:80/Nicoriojacom/232107891234/185040.ts
 http://liketv.xyz:80/Nicoriojacom/232107891234/112.ts
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6s75wly9iz7jrptxo8tga/Encuentro-TV.jpg?rlkey=kkzm3y78ekrdiuh8idwm0uqmg&st=0ef7nx5z&dl=0 " group-title="CULTURA",Encuentro TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cbashuyzzw8nsv3rdn6pe/Encuentro-TV.jpg?rlkey=k7aj8ov3ynjg5jbqmmm69viv5&st=exc3jmpi&dl=0 " group-title="CULTURA",Encuentro TV
 http://liketv.xyz:80/Nicoriojacom/232107891234/8559.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yziytdwjf06enla1z6fh7/Canal-Rural.jpg?rlkey=bn3pwdhwnyb6banwcgip0cub5&st=4mteexbf&dl=0 " group-title="CULTURA",Canal Rural
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i248vj6p4u452osytwfde/Canal-Rural.jpg?rlkey=t0glfvlj3kvv49ksk09m1wyrx&st=r93u4jnc&dl=0 " group-title="CULTURA",Canal Rural
 http://liketv.vip:80/Nicoriojacom/232107891234/212540.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2zr5gmhhyi90qh4xyln86/Ciudades-del-Ocio.jpg?rlkey=n6ekvd50hiw3rol3cxu5fc56h&st=cx95pmjm&dl=0 " group-title="CULTURA",Ciudad del Ocio
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4s2ude3pdcth7wfe7elrg/Ciudades-del-Ocio.jpg?rlkey=rx9x9vsxesq11vxonao2wbxyu&st=fgdf4362&dl=0 " group-title="CULTURA",Ciudad del Ocio
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/00cdemc7i3y0gdvyibf90/DKiss.jpg?rlkey=c0zkp9sksammty1s7vh75xv75&st=q9hiccw3&dl=0 " group-title="CULTURA",DKiss
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1jqtw7q495i50xgrwetv3/DKiss.jpg?rlkey=2cn3ptjiohb9iqrwih1cmk2k1&st=ncggdnxs&dl=0 " group-title="CULTURA",DKiss
 http://liketv.xyz:80/Nicoriojacom/232107891234/126854.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/skt6r5uazgi5c5zw44gya/Film-Arts.jpg?rlkey=fcavbc8lyrtzmys55v3hq2bt2&st=f1xdsnx5&dl=0 " group-title="CULTURA",Film & Arts.
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xxxys6q8vw2aivt00m00t/Film-Arts.jpg?rlkey=u65yfbibu49zgiq8ypca39rgc&st=0579lbex&dl=0 " group-title="CULTURA",Film & Arts.
 http://liketv.xyz:80/Nicoriojacom/232107891234/126465.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6ezzb9kyz2xdn8fb4eh8e/Historia-TV.jpg?rlkey=tz6urof2g5o72j7o9ugk15b6s&st=mt7h5l23&dl=0 " group-title="CULTURA",Historia TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8h8tkz1crckfehungulni/Historia-TV.jpg?rlkey=cyfe968vy4qlemsrzoaalq8j1&st=33qv76v5&dl=0 " group-title="CULTURA",Historia TV
 http://liketv.xyz:80/Nicoriojacom/232107891234/218160.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a1ackwoxfana8da4mcr8d/History-Channel.jpg?rlkey=q5zn7tw8o9jiidkamxhstvevi&st=awv81k3h&dl=0 " group-title="CULTURA",History 1
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9amrkxn8r57ypwvlevnv0/History-Channel.jpg?rlkey=eemawz9g08feic1p0lyhmy371&st=iqezu8p5&dl=0 " group-title="CULTURA",History 1
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yfh5m9hfaz7nno8r0husf/History-Channel-2.jpg?rlkey=egw2z2j6gk4o5q4deri843xvs&st=zq50k4ga&dl=0 " group-title="CULTURA",History.2 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s3whdpjea9szjdls5ekee/History-Channel-2.jpg?rlkey=wzswmypjqiummbw5btygxl7c4&st=asc8amo4&dl=0 " group-title="CULTURA",History.2 
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9u5f0leca0aqpjf9bcnl5/Love-Nature.jpg?rlkey=zfo0t0s7vn5wzlhzze67wlvmc&st=76ou3b2k&dl=0 " group-title="CULTURA",Love.Nature
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/twtwcpvo2j1bbrfabegly/Love-Nature.jpg?rlkey=jpvjgouabr0c8qoj3dln6r2a4&st=ymah9aa4&dl=0 " group-title="CULTURA",Love.Nature
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4y2bu181r79gkgpvb6me1/Nat-Geo.jpg?rlkey=6550yuv8zx8eu4tgu1cah7q30&st=2b5uhjh7&dl=0 " group-title="CULTURA",Nat Geo
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/e1m493zin8s8j3iq64x1r/Nat-Geo.jpg?rlkey=j3x3fr86bj42oujtg88pluc88&st=lm5jrh9o&dl=0 " group-title="CULTURA",Nat Geo
 http://liketv.xyz:80/Nicoriojacom/232107891234/126861.ts
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mthmrekgobnrk7miqdyrq/Radio-Maria.jpg?rlkey=jw77a4jjilzh96hipmeeiiuej&st=b578abkj&dl=0 " group-title="RELIGION",Radio Maria
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0a3jh3xvdq866jyxtbfkk/Radio-Maria.jpg?rlkey=och8p6z68l3cne94xmhahle0f&st=2okegku1&dl=0 " group-title="RELIGION",Radio Maria
 https://5f700d5b2c46f.streamlock.net/maria720/maria720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kil1sa5wajct0x87z8z9v/A-R-Adventista.jpg?rlkey=h0egk1tlpac42sv3sgy005reu&st=0y94oj1j&dl=0 " group-title="RELIGION",A&R Adventista
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5g2xzfwkhgnywexndpxcz/A-R-Adventista.jpg?rlkey=imneuxp6c0f3k8058uprgwmf6&st=tq57drqw&dl=0 " group-title="RELIGION",A&R Adventista
 http://51.222.9.192:3589/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s4frzlmqu8v8pnu7px225/Enlace-TV.jpg?rlkey=o44p4ops2vwz58mzfp52qxu8a&st=56xlzudi&dl=0 " group-title="RELIGION",Enlace TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yxa4iv94xu7gy4e1gogjb/Enlace-TV.jpg?rlkey=vbytyrhr4hid8ugxmnpaq6una&st=16s4lyc7&dl=0 " group-title="RELIGION",Enlace TV 
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vacwqntu6e4dm03c955sn/EWTN-TV.jpg?rlkey=bgiupgfhkeqcpdv6cuxco345w&st=thf0r7vj&dl=0 " group-title="RELIGION",EWTN TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vg3z64ve38gshbvvvdk72/EWTN-TV.jpg?rlkey=4hvl2viapr2b7pf6obziasljv&st=r3d5udz4&dl=0 " group-title="RELIGION",EWTN TV 
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qgipjt80me0tooexiyhfh/Canal-Luz.jpg?rlkey=zkhzg3y2p5n534h9xip63ofme&st=chqy7bpo&dl=0 " group-title="RELIGION",Canal Luz 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/38439e27k9vtqafsk9qap/Canal-Luz.jpg?rlkey=uar15rignad4q5t92fscvolda&st=jfflvkuz&dl=0 " group-title="RELIGION",Canal Luz 
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/38prslyrtctpy9uocgk38/Jehova-TV.jpg?rlkey=olo9bttxd8zcis2q1n2qa47dr&st=6nb5rlp3&dl=0 " group-title="RELIGION",Jehova TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/urdvygt3t741gdrdge4l2/Jehova-TV.jpg?rlkey=f7g1fen0bh95xr94ti5cqlb4h&st=ki1akv6w&dl=0 " group-title="RELIGION",Jehova TV 
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rw3mjq3jdw66rn8st7jf7/ABN-Latino.jpg?rlkey=g05rz75gygjpw7848gzkd7664&st=o6qvx933&dl=0 " group-title="RELIGION",3ABN Latino
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a199x0hs02b432e3gcpyc/ABN-Latino.jpg?rlkey=nykwkf2j0z4dybphtrw19pw0m&st=j3384445&dl=0 " group-title="RELIGION",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/n32uaolvvtpni7tfkzrge/Alcance-.TV.jpg?rlkey=sdmbvzvt66xb6knpi25pw8qfi&st=gzaurzt1&dl=0" group-title="RELIGION",Alcance TV
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/50h7gbjrffgs6gl09gufz/Alcance-TV.jpg?rlkey=90noo91fwuszv6wjni5qvu8co&st=vo72lm69&dl=0" group-title="RELIGION",Alcance TV
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rqa8e9yazp6xibnt5s6m8/Bethel-TV.jpg?rlkey=wbo2gzn4n4ua2uar7fbbxane5&st=zm0zgb68&dl=0 " group-title="RELIGION",Bethel TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/241w3whqu8vfj0o25bkqf/Bethel-TV.jpg?rlkey=9wh2caz0goxgtx5i12ju9ouk4&st=e1txcekd&dl=0 " group-title="RELIGION",Bethel TV 
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/j1lp01bmw2lgebbvue682/Telemorisco.jpg?rlkey=ouqdb9p6xoh07xasuhj6z1iis&st=qo2cj600&dl=0 " group-title="RELIGION",Telemorisco 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d39ttlcnogxs9cnr8ctw8/Telemorisco.jpg?rlkey=v0r0hk3g128jnjqz1ujrh843g&st=64g3p412&dl=0 " group-title="RELIGION",Telemorisco 
 http://canal.mediaserver.com.co/live/telemorisco.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qjblwabituze1t157n39g/Hosanna.jpg?rlkey=3tgsnyb7othj4x6u6ih9vtug1&st=dnyllq4c&dl=0 " group-title="RELIGION",Hosanna Vision
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/75c07hrxbdgnnckfzqreo/Hosanna.jpg?rlkey=9jfr7b0lz012v3ckpeoznj7p1&st=fqmmu0d7&dl=0 " group-title="RELIGION",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5sm97oelvvyabw5n63xcw/Red-Advenir.jpg?rlkey=emf6wbznwjir1eqj08ij6bnk8&st=bzdco10c&dl=0 " group-title="RELIGION",Red Advenir
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/v3gy2wxp5rwg4umab45i1/Red-Advenir.jpg?rlkey=5c2vxwsai9ir3d933c8hika1f&st=a724vheu&dl=0 " group-title="RELIGION",Red Advenir
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3zjcr28rrt5dryo9sevw3/Solidaria-TV.jpg?rlkey=kc4uwnkazhu62poo0xt952uah&st=x8mn4qfm&dl=0 " group-title="RELIGION",Solidaria TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/en445338145ey7kmjboir/Solidaria-TV.jpg?rlkey=m0itcotpkwh6czmin8oi0vrwr&st=28q3lu2y&dl=0 " group-title="RELIGION",Solidaria TV 
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i2x9d6eoyvy482b385nj2/Universal-TV.jpg?rlkey=4wcwxhkr73vxwy3dw76sh8bo6&st=mp8fgbka&dl=0 " group-title="RELIGION",Universal TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i7xqwjpkvhnbl7hzfd735/Universal-TV.jpg?rlkey=0auldajo7qlgg9puq8qezyn3w&st=5g85r13s&dl=0 " group-title="RELIGION",Universal TV 
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bh0t5xuyalx4ibdrnsvmr/Animal-Planet.jpg?rlkey=7o19b7432v3bqnabp2s2n2gek&st=hyj1nhup&dl=0 " group-title="DISCOVERY",Animal 
-http://liketv.xyz:80/Nicoriojacom/232107891234/7433.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cic9hfpiiokn4awkvsgt4/Discovery.jpg?rlkey=s4tqv0jov24snehlw10sqcqtw&st=4yhk2wa2&dl=0 " group-title="DISCOVERY",Civilization
-http://liketv.xyz:80/Nicoriojacom/232107891234/7882.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jelirn8sx7m0kb8wieqw1/Disc-Inv.jpg?rlkey=64vt8ilokbg3376mq3w0l9ybe&st=ox6hz560&dl=0 " group-title="DISCOVERY",Investigation
-http://liketv.xyz:80/Nicoriojacom/232107891234/126764.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rhc4gj843ca1u0c9pn80p/Disc-HGTV.jpg?rlkey=mkpfg9y5wwyejrejpa1n5cqpd&st=sboh7ucn&dl=0 " group-title="DISCOVERY",HGTV
-http://liketv.xyz:80/Nicoriojacom/232107891234/7492.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f4vqxh59respvp68xoup0/Home-Health.jpg?rlkey=hbrh45olpv1qaenruv11a1jxm&st=kplm9wu5&dl=0 " group-title="DISCOVERY",H & H
-http://liketv.xyz:80/Nicoriojacom/232107891234/7458.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.usercontentcom/scl/fi/9p623h3r0bni8gofbyb9l/Disc-Kids.jpg?rlkey=ntqhqhoo5ub56j36x92ht5w0x&st=hj9uakgo&dl=0 " group-title="DISCOVERY",Kids
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bro5vz9v6zhb876qi3bik/Discovery-Kids.jpg?rlkey=ckoa0qy8iv9bx4mi9dvybaum2&st=52yimtsl&dl=0 " group-title="DISCOVERY",Kids
 http://liketv.xyz:80/Nicoriojacom/232107891234/8018.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yfvi322sqnhc6bd7fxths/Disc-Science.jpg?rlkey=ld65ywltzk1or7jwi8mly0u3k&st=0yeku3wt&dl=0 " group-title="DISCOVERY",Science
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3p5tck3lp3fepnh45hbhn/Animal-Planet.jpg?rlkey=2trhwv3fyg2ox9vxv8210zr51&st=nctywemg&dl=0 " group-title="DISCOVERY",Animal 
+http://liketv.xyz:80/Nicoriojacom/232107891234/7433.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/e7g1eatvkjgsfnevbk7r9/Discovery-Channel.jpg?rlkey=hrwo7m4qnu9al7aslj6r0sgqj&st=bdtlxtjd&dl=0 " group-title="DISCOVERY",Civilization
+http://liketv.xyz:80/Nicoriojacom/232107891234/7882.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/id38e9wwdtgjxaoofm2hi/Discovery-Investigation.jpg?rlkey=2rm7s4cn3m6bps1s76fukk4pk&st=cmibni2u&dl=0 " group-title="DISCOVERY",Investigation
+http://liketv.xyz:80/Nicoriojacom/232107891234/126764.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wsvzg3x5vrcx85zco0qnm/Discovery-HGTV.jpg?rlkey=o4vmbjg0xh15xd2cgpgs4hy7h&st=v5i8aex8&dl=0 " group-title="DISCOVERY",HGTV
+http://liketv.xyz:80/Nicoriojacom/232107891234/7492.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9yedvd9klsnzlmduf3ef6/Home-Health.jpg?rlkey=tc08u342djr89079etkerfacj&st=vax7bk9g&dl=0 " group-title="DISCOVERY",H & H
+http://liketv.xyz:80/Nicoriojacom/232107891234/7458.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1kdscmiygbfvbib7v9dvp/Discovery-Science.jpg?rlkey=m0sp9v71ix6ac7q90ttb5ivad&st=u7bv9nbm&dl=0 " group-title="DISCOVERY",Science
 http://liketv.xyz:80/Nicoriojacom/232107891234/7462.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9i34lli1nn9ug0wu7jabd/Disc-Theater.jpg?rlkey=6x3lznfn5vgwn6lxv4qd8ly4o&st=z6rbtmtu&dl=0 " group-title="DISCOVERY",Theater 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5aeqbvhovbr8wfmfzzv2b/Discovery-Theater.jpg?rlkey=4l8l6qynpmxmnmmymtv41z4ot&st=3hokrg09&dl=0 " group-title="DISCOVERY",Theater 
 http://liketv.xyz:80/Nicoriojacom/232107891234/7465.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/04cgixquts41u68kjza6l/Disc-TLC.jpg?rlkey=z5rn2gmyrf75guoyjjvvml74j&st=bl34t985&dl=0 " group-title="DISCOVERY",TLC
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ibnki6h0aa2pyo0j7q7s7/Discovery-TLC.jpg?rlkey=uw1ijdg3yz8bq21hglviqfhbm&st=ix52r4pk&dl=0 " group-title="DISCOVERY",TLC
 http://liketv.xyz:80/Nicoriojacom/232107891234/7468.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p5ojj3e21j5sa97bjdmac/Disc-Turbo.jpg?rlkey=x3z78k4axvkl7f129dhtopird&st=fhxu9uu7&dl=0 " group-title="DISCOVERY",Turbo
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b7sz9gfosoetepozvr61i/Discovery-Turbo.jpg?rlkey=b2ve3nxj3h2ngf8bvqwjuznqa&st=5s0cacyx&dl=0 " group-title="DISCOVERY",Turbo
 http://liketv.xyz:80/Nicoriojacom/232107891234/7474.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z0cmgevl9i33heiiub9fu/Disc-World.jpg?rlkey=34o3aj4ivb7znaanp98rnc00k&st=44bmp9sl&dl=0 " group-title="DISCOVERY",World
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fduglwwz81jk78z3bea0h/Discovery-World.jpg?rlkey=1c1ieze5i9hp5edvnzr7ucuie&st=weraoguj&dl=0 " group-title="DISCOVERY",World
 http://liketv.xyz:80/Nicoriojacom/232107891234/7477.ts
 
 
-#EXTINF:-1 tvg-logo=" " group-title="CINE VIP",Cine Friki
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pj54r3dknpx2r2804kmd9/Cine-Friki.jpg?rlkey=l0m0efan93mnqgvf96mb0ysso&st=ct38yr73&dl=0 " group-title="CINE VIP",Cine Friki
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=ec528dd9-92bb-49ec-9498-8ef2b8c55094&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ps3khux3zvfi4kz3o33ml/Top-Cine.jpg?rlkey=qd616l71ud5appdeou8lp305k&st=tttcv5eq&dl=0 " group-title="CINE VIP",Top Cine
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wt9wwiuf7xozz7sqtaklr/Top-Cine.jpg?rlkey=a2e06o9aeks2m1fw4n5lbaneg&st=210m5rah&dl=0 " group-title="CINE VIP",Top Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a62kec8o9riwwv9nfex6t/AMC-Channel.jpg?rlkey=9y1treyl3o4skx82r2kywknhd&st=g462trib&dl=0 " group-title="CINE VIP",AMC.Channel
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tjqfxr4dh19jj71eeq16m/AMC-Channel.jpg?rlkey=7g64iyfjys0c6gp1lgtpwpn6w&st=ll1mra8u&dl=0 " group-title="CINE VIP",AMC.Channel
 http://vegafibratv.com:8085/AMC/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.usercontentcom/scl/fi/l5l0awb08n3s6opb1ne5q/A3-Cine.jpg?rlkey=g7k0myf80uyw6sx4ta6wrzsjj&st=pf2ol2kb&dl=0 " group-title="CINE VIP",A3Cine
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zsf0orp71roe9mjx8wfkz/A-3-Cine.jpg?rlkey=xvim1marj1wiz1o20rrbkvux6&st=6y89tnt2&dl=0 " group-title="CINE VIP",A3Cine
 http://liketv.xyz:80/Nicoriojacom/232107891234/7415.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gtno9kohgm6ui5y2qsnc1/Netflix.jpg?rlkey=v74h2w0jhbm61yfc3wvqdvy6u&st=esdw6zz1&dl=0 " group-title="CINE VIP",Netflix
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kukavd1fykl2i155d66gm/Netflix.jpg?rlkey=rljjfztslpwmtl3wdhrzd5ckb&st=imeof39f&dl=0 " group-title="CINE VIP",Netflix
 http://liketv.xyz:80/Nicoriojacom/232107891234/200493.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/63rlkrglvaag5rk221tlo/Be-Mad.jpg?rlkey=oynubrjvp81y2y6ftey8yo4m1&st=7n0nddo2&dl=0 " group-title="CINE VIP",Be Mad
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uvfmvxe0gg9z13j5myvfo/Be-Mad.jpg?rlkey=cono5jte19fgrv66stm4u60oq&st=71dp02so&dl=0 " group-title="CINE VIP",Be Mad
 http://liketv.xyz:80/Nicoriojacom/232107891234/126835.ts
-#EXTINF:-1 tvg-logo="https:/dl.dropboxusercontent.com/scl/fi/xukj061xwgyo4wqzv5uff/Cine-Werstern.jpg?rlkey=bv5obfs0y8azj36q7fjau03ff&st=qlio1z63&dl=0 " group-title="CINE VIP",Cine Western
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vigkeofkyfvz21tmmrpgq/Cine-Western.jpg?rlkey=udvunrwcbkko4zx5vvxs21kg6&st=wtwa0ovb&dl=0 " group-title="CINE VIP",Cine Western
 https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fkb1hmvf3kag4uuzjrq7t/Cine-Estelar.jpg?rlkey=3ut9r4est8dd0o7ryf0u4g8j3&st=h03w3ixc&dl=0 " group-title="CINE VIP",Cine Estelar 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/aeref5bggdrbn0yk3l9qy/Cine-Estelar.jpg?rlkey=22dsfgjh0i4m1z5sa0lxp8xb3&st=8dfjkcoy&dl=0 " group-title="CINE VIP",Cine Estelar 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.usercontentcom/scl/fi/iiej36cgre9qgzk2iyonf/Multipremier.jpg?rlkey=ip3e0xxnv0oschoglme465sp1&st=mtenk086&dl=0 " group-title="CINE VIP",Multi.Premier
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2t573od5126s3mkz1pob5/Multipremier.jpg?rlkey=4c46exe6c1yt9hhjxwzopkwmp&st=dwr4tcc6&dl=0 " group-title="CINE VIP",MultiPremier
 http://liketv.xyz:80/Nicoriojacom/232107891234/17441.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/el9f1brhdq9xek29tvhgy/Bom-Cine.jpg?rlkey=zb66vi09iu601gxpmf8m4rvuh&st=h3a45amh&dl=0 " group-title="CINE VIP",Bom Cine 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kc2104w18yrdes148ed7h/Bom-Cine.jpg?rlkey=g8148fef3jqxt6ua9crbs6qwt&st=pffc7gqm&dl=0 " group-title="CINE VIP",Bom Cine 
 http://185.189.225.150:85/BOM/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/85oxl3ytcxz6ew9enjpzz/Cine-Latino.jpg?rlkey=bbnc7dvypz3t6ukj9bl7xhmw8&st=bxqk45nb&dl=0 " group-title="CINE VIP",Cine.Latino
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7v043c3v09u3w9g4a2t2r/Cine-Latino.jpg?rlkey=60unwhi23ahrk6p9um2g4atig&st=yutejzj2&dl=0 " group-title="CINE VIP",Cine.Latino
 http://liketv.xyz:80/Nicoriojacom/232107891234/17450.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2xrbv4hqyjbkdabbxjmia/Cine-Argentino.jpg?rlkey=4cqrnlrfw3q445lzbsu1048b2&st=akdj2lln&dl=0 " group-title="CINE VIP",Cine Argentino
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w8n5kq1w9527jaq90cq3k/Cine-Argentino.jpg?rlkey=0xzwj87wj8hpgxj7pnluvstnp&st=0sx6wfkt&dl=0 " group-title="CINE VIP",Cine Argentino
 http://liketv.xyz:80/Nicoriojacom/232107891234/126928.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rz3oqnavfnfdy8dm51wsx/FreeTV-Drama.jpg?rlkey=fdxttsry5nrbln0kq3v7geh8d&st=ug9bmxml&dl=0 " group-title="CINE VIP",Cine Drama
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7fzeuzsvpqyiwx0ezc74m/FreeTV-Drama.jpg?rlkey=llfh98khsfea0miyjo5rgk78b&st=zejcy5dk&dl=0 " group-title="CINE VIP",Cine Drama
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zwn9agj7siagdguvoiejo/Cine-Live.jpg?rlkey=g4qqm6w2pfxct6fsxao3oa2ox&st=afj1m6li&dl=0 " group-title="CINE VIP",Cine Live
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gstakbh76qauahbbbssz9/FreeTV-Live.jpg?rlkey=eumvuorap1qx11gdx7z3q76qi&st=kd2g8izu&dl=0 " group-title="CINE VIP",Cine Live
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ge21sr0zjbh0ejpug0tl4/Cine-Real.jpg?rlkey=9yl96sz26ot4djuyg15h4hp83&st=jazyxcm7&dl=0 " group-title="CINE VIP",Cine Real
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d8lnf02dwnva5wd4by2gj/Cine-Real.jpg?rlkey=uvelridj3x3jke8brm097eir0&st=ym008zwq&dl=0 " group-title="CINE VIP",Cine Real
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/x6vgn07ezv1y37jjjwsuj/Cine-Romance.jpg?rlkey=r7halw82rio7knc5chouqa66u&st=jc1leeg0&dl=0 " group-title="CINE VIP",Cine Romance
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i6htd0twgebi6rl6f8urm/Cine-Romance.jpg?rlkey=sx519b996ybii1sl0tp9dauqy&st=fp7r5o7u&dl=0 " group-title="CINE VIP",Cine Romance
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5abu2cb3am584qdue2una/Cine-Sure-o.jpg?rlkey=alwaexywvetg0cs6xbbhe3gfs&st=c2xbd3az&dl=0 " group-title="CINE VIP",Cine Sureño
+#EXTINF:-1 tvg-logo="https:/dl.dropboxusercontent.com/scl/fi/o7zy2mua7csrvdahjcg6z/Cine-Sure-o.jpg?rlkey=408p0mdu643twbz0fht7s9kxb&st=w8whx6jj&dl=0 " group-title="CINE VIP",Cine Sureño
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qq5yrdl26d8hv9ihcvhu2/FreeTV-Terror.jpg?rlkey=2h6dy5ytqssu15t7sx0fwgv62&st=oocy1y6y&dl=0 " group-title="CINE VIP",Cine Terror
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qx2l6g7u9zlz38b81mf5a/Cine-Terror.jpg?rlkey=ihrt5joclejmgys8nwi3h447d&st=6bu8m8w1&dl=0 " group-title="CINE VIP",Cine Terror
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9xlh4qom29gaf42v59i9g/Cinecanal.jpg?rlkey=dgkkggd0ds0dxhzca9i9lnc83&st=ijok6s94&dl=0 " group-title="CINE VIP",Cinecanal
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/29dewfx6scgknhkn4ibsi/Cinecanal.jpg?rlkey=f3ysd51q9zih3ts8p2irg5c77&st=e1g3tkih&dl=0 " group-title="CINE VIP",Cinecanal
 http://liketv.xyz:80/Nicoriojacom/232107891234/126456.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oas3nm27xt41oo4ag4dpe/Cinemax.jpg?rlkey=v7o4zg0bv8mk0llf6rrvwzomu&st=vjmzu852&dl=0 " group-title="CINE VIP",Cinemax
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fq1p0yrnuc1iuk05u5yos/Cinemax.jpg?rlkey=anf5ud5vcqwvcg3sd4s592yjx&st=hymctd3q&dl=0 " group-title="CINE VIP",Cinemax
 http://liketv.xyz:80/Nicoriojacom/232107891234/17435.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1s2i61c8gn0z54kil7bse/Cosmopolitan.jpg?rlkey=vjaj1yn13r499h7nx0z4r3xdm&st=jir8ksea&dl=0 " group-title="CINE VIP",Cosmopolitan
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a17ccqjh6db7vn8xjgq2a/Cosmopolitan.jpg?rlkey=ikj4harv1n8nvrwdpnluhxhpa&st=hv0pg03b&dl=0 " group-title="CINE VIP",Cosmopolitan
 http://liketv.xyz:80/Nicoriojacom/232107891234/126831.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tv1lya9e1apd5ezba43ow/MX-Family.jpg?rlkey=f94tixul06zsr9hsxkzrn1i1l&st=u29nr1dc&dl=0 " group-title="CINE VIP",MX Family
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rqesxtx56nulzlaqmiy1j/MX-Family.jpg?rlkey=6hkcj4zezx3gd2iepn713wp81&st=4zndzyar&dl=0 " group-title="CINE VIP",MX Family
 http://liketv.xyz:80/Nicoriojacom/232107891234/7862.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zpn6aywk0yms7jrzaooyt/De-Pelicula.jpg?rlkey=vxy0i3cby4zgirn5uya7tsowx&st=lx3tghad&dl=0 " group-title="CINE VIP",De Pelicula
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bft9ion2t111gvstvsmid/De-Pelicula.jpg?rlkey=wi3fwu0u5v5u35l22bs71zvgq&st=7t9fjk6m&dl=0 " group-title="CINE VIP",De Pelicula
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ootke6suc9wbowb0vtbab/DHE-Channel.jpg?rlkey=df5myuhh3mnfck1c5deca447i&st=vm3f4lj4&dl=0 " group-title="CINE VIP",DHE.Channel 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bmc69iv6khtykdkxgcoa4/DHE-Channel.jpg?rlkey=o77fjmjayjpqkgve40mnspg52&st=6si5lzu5&dl=0 " group-title="CINE VIP",DHE.Channel 
 http://liketv.xyz:80/Nicoriojacom/232107891234/17622.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5dnakrarpf350vj5s9ct8/Grjngo.jpg?rlkey=em6gf25vec2ciaibbsjyr786t&st=mc0tdmim&dl=0 " group-title="CINE VIP",Grjngo
-https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=b2e0d422-0c72-4822-a3e4-66823ac01693&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1906
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0qfl5431fq3l5ikzy8hhs/Film-Rise.jpg?rlkey=y9j6nmc1y5y8b9wfguk5ue5um&st=ovyrx5wp&dl=0 " group-title="CINE VIP",Film Rise
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=0ed7f8f4-dd74-4834-857b-a8b5f55d6dff&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_streamId=88883026
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n9vpj7saxg5boyzae1lei/Fox-Channel.jpg?rlkey=qmswef3nh2hcurq1w8hgzovc6&st=ivqs9p11&dl=0 " group-title="CINE VIP",Fox 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pgkyvnsfikyyv2ekutg9l/Grjngo.jpg?rlkey=ocye1yksusfmyxer4pztotz5u&st=yx64ixag&dl=0 " group-title="CINE VIP",Grjngo
+https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6s0rey6ueg0qy7zc5j968/Film-Rise.jpg?rlkey=klau0sskblg6ab0nucqmnegs4&st=gca7w5jm&dl=0 " group-title="CINE VIP",Film Rise
+https://n9.cl/8nndd/.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f8uiy80l1kers718e8i90/Fox-Channel.jpg?rlkey=6y6ciqxotfaxhgxs6w7qnbc6k&st=bcx18dr3&dl=0 " group-title="CINE VIP",Fox 
 http://liketv.xyz:80/Nicoriojacom/232107891234/126466.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f2uebvskyoqia1itir35v/Golden-Channel.jpg?rlkey=8hmpb06yrbvaah62dlyz333rm&st=wm0pgs6t&dl=0 " group-title="CINE VIP",Golden.Channel
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mi7jweur60425j7jrxjb1/Golden.jpg?rlkey=uj1jc1xayg1zjeikf90f3fin4&st=xt1qbte6&dl=0 " group-title="CINE VIP",Golden.Channel
 http://liketv.xyz:80/Nicoriojacom/232107891234/17650.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/375fl19aj0twm01fu40mo/Golden-Edge.jpg?rlkey=i3nmo4f7a1ra72hqs12fgyylt&st=ykgvz2zf&dl=0 " group-title="CINE VIP",Golden.Edge
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ja1zg60ezskm4qka2qmsn/Golden-Edge.jpg?rlkey=po59r558kvirmk2gtfapkv9yb&st=jeq9xvke&dl=0 " group-title="CINE VIP",Golden.Edge
 http://liketv.xyz:80/Nicoriojacom/232107891234/17586.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z2c3cke6vie8xj90o6r5f/Golden-Plus.jpg?rlkey=63mffnwx9kqrawxohc2cde59s&st=tyouzmtz&dl=0 " group-title="CINE VIP",Golden.Plus
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/v3rb7cmj5hxb51ikxcebs/Golden-Plus.jpg?rlkey=990aagle2igoamd87c6th7nmi&st=cpuf9x3j&dl=0 " group-title="CINE VIP",Golden.Plus
 http://liketv.xyz:80/Nicoriojacom/232107891234/126468.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5r7tgroja1ppawlcb7q6q/Golden-Premier.jpg?rlkey=tynqm84utgyz088r5l13050kl&st=20234c5g&dl=0 " group-title="CINE VIP",Golden.Premier
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0xxgd9ulsemfgth8isff2/Golden-Premier.jpg?rlkey=a5tzldz5xa905euwoawwgm1qo&st=ddfx2elm&dl=0 " group-title="CINE VIP",Golden.Premier
 http://liketv.xyz:80/Nicoriojacom/232107891234/126469.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/joal0r1y8dmnhyqzaskpv/Multicinema.jpg?rlkey=pfuovms1vq2kw159wlsx12zvp&st=u3c3v8gr&dl=0 " group-title="CINE VIP",Multicinema.
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vxhn825lyh2juqi36z69n/Multicinema.jpg?rlkey=5k4lv6wsugzj7pezp3ti55ae5&st=kl1ve5x2&dl=0 " group-title="CINE VIP",Multicinema.
 http://liketv.xyz:80/Nicoriojacom/232107891234/17513.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/775hj0actihz340vkku8f/Lifetime.jpg?rlkey=lp7w1zhgcculx0ylsvmeiglbo&st=zccmy5eh&dl=0 " group-title="CINE VIP",Life.time
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0d78lhxdd43zt6qf1qber/Lifetime.jpg?rlkey=kaqsbslq4pqskokklazd7mx2c&st=4rg9twop&dl=0 " group-title="CINE VIP",Lifetime
 http://liketv.xyz:80/Nicoriojacom/232107891234/17560.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bssc114w5d4byv8fn4fm6/MyTime.jpg?rlkey=ey8n97agzp3ux0pnd2nwixzod&st=olwlb2xr&dl=0 " group-title="CINE VIP",Mytime Movies
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2bz7xsaxn5naaadxswjaz/MyTime.jpg?rlkey=hdnho28mm0i8mr3c0xv2frxws&st=emd1agdq&dl=0 " group-title="CINE VIP",Mytime Movies
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/415ig9f0mg9ospbu3how4/Neox.jpg?rlkey=svqjgg4g8yqxxc8renmn4151z&st=dzjwndn6&dl=0 " group-title="CINE VIP",Neox Channel
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xtaicl30jl9xrbmg9xp22/Neox.jpg?rlkey=nmhmwpkc7eyr2gr7ewb3b0o4e&st=1wcllig3&dl=0 " group-title="CINE VIP",Neox 
 http://liketv.xyz:80/Nicoriojacom/232107891234/7896.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4vyw0ga0h2eoj2kkm8k8h/Paramount.jpg?rlkey=no1gx1utuswrj17pvio1xd4xk&st=0q3w99z5&dl=0 " group-title="CINE VIP",Paramount
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/btg9keegrjvr7koalnj2j/Paramount.jpg?rlkey=er3ypncvrvw8nyi93csz82kgm&st=es5gthf9&dl=0 " group-title="CINE VIP",Paramount
 http://185.189.225.150:85/Paramount/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ouf7jaqxwf10b70fh9s5p/Space.jpg?rlkey=g6yyu1apnr8ditcydu1aioyiv&st=67hlg6se&dl=0 " group-title="CINE VIP",Space.
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jenlbuxt3fc0gfeffq1yo/Space.jpg?rlkey=tvzujovbdzoxllbsfo5v54l5h&st=4o2ooxfw&dl=0 " group-title="CINE VIP",Space.
 http://liketv.xyz:80/Nicoriojacom/232107891234/17487.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/14hyzttcizogbdldbawz6/Star-Channel.jpg?rlkey=eb36oyftcir94z4ivuf9yq962&st=uj9cwhnf&dl=0 " group-title="CINE VIP",Star
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uyk0ub5h83c59mwjunkpc/Star-Channel.jpg?rlkey=bkb7m7hnfcop5pt7vdriebvzb&st=rb9s8s4o&dl=0 " group-title="CINE VIP",Star
 http://liketv.xyz:80/Nicoriojacom/232107891234/126487.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0fo5kw13770al7p534qg5/Cinerama.jpg?rlkey=14b1qoeti1cn7pcaf59q2dw0f&st=ttn12th1&dl=0 " group-title="CINE VIP",Cinerama
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9x4tibbvarcgxpw5bg5nd/Cinerama.jpg?rlkey=se25xzne4uksbmovrxi21jr0y&st=lwksmqub&dl=0 " group-title="CINE VIP",Cinerama
 http://liketv.xyz:80/Nicoriojacom/232107891234/113371.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dykzz804jf7cg804suym9/Cine-Estrella.jpg?rlkey=k7k9bipv9keo8xeeu4bztry5n&st=nw60j111&dl=0 " group-title="CINE VIP",Estrella TV
-https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gdc6biwcnklpr88e7wuwp/SyFy-Channel.jpg?rlkey=e8w81tn26sf6ek5nj92ct9v0f&st=nqwqe3t8&dl=0 " group-title="CINE VIP",SyFy 
-http://liketv.xyz:80/Nicoriojacom/232107891234/126944.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6zm8gu1i32nworpb14rtw/TCM-Channel.jpg?rlkey=y9lok26hc6q5vp2gpww4dn5js&st=hwuoznls&dl=0 " group-title="CINE VIP",TCM.
-http://liketv.xyz:80/Nicoriojacom/232107891234/126842.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/e7kiqdh86v0io0iakd26r/TNT-Channel.jpg?rlkey=9alzk2mojzxobmte5l0r0ovw2&st=p7zqctfu&dl=0 " group-title="CINE VIP",TNT 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f6jqffi4zrt2ql4zec02m/TNT-Channel.jpg?rlkey=8i7qcav7ie9e1h6zyl16iczna&st=tqs4b4rq&dl=0 " group-title="CINE VIP",TNT 
 http://liketv.xyz:80/Nicoriojacom/232107891234/126523.ts
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p0poiibupd6fosyj0d0tv/HBO.jpg?rlkey=mafs76m3gyiimlvefsszp6lzm&st=v82bh2ig&dl=0 " group-title="HBO",HBO
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i4ihmrfqbn8396fzvusjk/HBO.jpg?rlkey=3792d9wtgxug0cnmuzqast8tq&st=resbkq4t&dl=0 " group-title="HBO",HBO
 http://liketv.xyz:80/Nicoriojacom/232107891234/17594.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rciyzlgy82nikqlwjz3ry/HBO-2.jpg?rlkey=2dkkr2n8vdsyyk3vkt6oiyac1&st=o9atdich&dl=0 " group-title="HBO",HBO 2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/thri2xzh8msmr5cly3nxe/HBO-2.jpg?rlkey=vypmejbbojjz6vd26we48gz1x&st=0dwzd642&dl=0 " group-title="HBO",HBO 2
 http://liketv.xyz:80/Nicoriojacom/232107891234/17409.ts
-#EXTINF:-1 tvg-logo="https:/dl.dropboxusercontent.com/scl/fi/tuauypfd26yezma55w5g0/HBO-Family.jpg?rlkey=xvvmch3k3qg12870a3lvidqj7&st=0a1vnt74&dl=0 " group-title="HBO",HBO Family
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/c1rqu97xn86epjqjpz1y5/HBO-Family.jpg?rlkey=kucdtp5og8pnq2sbexaow6fy9&st=rxofqhst&dl=0 " group-title="HBO",HBO Family
 http://liketv.xyz:80/Nicoriojacom/232107891234/17600.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f6zhu5nndxhlu0y1yziev/HBO-Mundi.jpg?rlkey=q2lz783hol9l0ga3hmwn3jzes&st=phkvizv1&dl=0 " group-title="HBO",HBO Mundi
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fzdcw03mnnvuunzwxxt0i/HBO-Mundi.jpg?rlkey=ji2pub3kc5rfueile671gkmzv&st=x6frowt5&dl=0 " group-title="HBO",HBO Mundi
 http://liketv.xyz:80/Nicoriojacom/232107891234/17413.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/asysni1l6pjax15jx7ot8/HBO-Plus.jpg?rlkey=m1445q21thr2lqfvzawq15sm3&st=gsu0wp4n&dl=0 " group-title="HBO",HBO Plus
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cnzv6u7h3k1rygdykk1rx/HBO-Plus.jpg?rlkey=hxmwaf0eqdwnzm5hfmrv98jxl&st=mtb8irf7&dl=0 " group-title="HBO",HBO Plus
 http://liketv.xyz:80/Nicoriojacom/232107891234/17596.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/09odjue9hvbfdt5m08aei/HBO-Pop.jpg?rlkey=uakg2q2tf9hngnj400c58qrs0&st=ildtwpr1&dl=0 " group-title="HBO",HBO Pop
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/br3fwewljebio6p850h9y/HBO-Pop.jpg?rlkey=grx9nabnumbps9qeeumj6qg6l&st=9tzqir86&dl=0 " group-title="HBO",HBO Pop
 http://liketv.xyz:80/Nicoriojacom/232107891234/17603.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f923m28jyp4smi61j6pki/HBO-Signature.jpg?rlkey=16slwt6qpogcwby21y98tyd47&st=bmis5hdw&dl=0 " group-title="HBO",Signature
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gr8xhmy2g7uszr9pzn0kc/HBO-Signature.jpg?rlkey=un40poqsltlxdiv8ls07kfzfd&st=ejpafz2a&dl=0 " group-title="HBO",Signature
 http://liketv.xyz:80/Nicoriojacom/232107891234/17599.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7kepmzbymmwdjbyd8kau8/HBO-Xtreme.jpg?rlkey=qprgko7y4h9jr67fgucdfsra1&st=2u81u2j5&dl=0 " group-title="HBO",Xtreme
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l6qodclgomdlu9v2q905k/HBO-Xtreme.jpg?rlkey=0k95bxbikjafejbvsqn83pgmy&st=0yshvtjw&dl=0 " group-title="HBO",Xtreme
 http://liketv.xyz:80/Nicoriojacom/232107891234/17637.ts
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dtkr9rw4cw1z4sn33c9wx/Studio-Universal.jpg?rlkey=9g2y7a9ud5utg3ln56hf5klxs&st=4cjtxpjy&dl=0 " group-title="UNIVERSAL",Studio
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xmn8kqoe5zunvet9dwdkb/Studio-Universal.jpg?rlkey=fjzdplelkwt331f2ngngt7zbx&st=rhuyxde6&dl=0 " group-title="UNIVERSAL",Studio
 http://liketv.xyz:80/Nicoriojacom/232107891234/17620.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/89jgi3nn55n4dgncszntu/Universal.Channel.jpg?rlkey=0m7tuaucuqtmdqz0kig0ls2r8&st=a74032dv&dl=0 " group-title="UNIVERSAL",Universal
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0qfjp4rl2rns5gbrfu31k/Universal-Channel.jpg?rlkey=ysnbkk33zgfcox1qjkbcbw840&st=82v3k2ce&dl=0 " group-title="UNIVERSAL",Universal
 http://liketv.xyz:80/Nicoriojacom/232107891234/17406.ts
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykkok8qgsplsuwlmk4mvi/Univ-Cinema.jpg?rlkey=ckw2h41w94pk8wdva12rk70yv&st=cvuzdnfu&dl=0" group-title="UNIVERSAL",Cinema
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cb0k2eisbz6mbx4n30ken/Universal-Cinema.jpg?rlkey=8fiheopi4qjbg49ap76yjf2ud&st=gkk186d7&dl=0 " group-title="UNIVERSAL",Cinema
 http://liketv.xyz:80/Nicoriojacom/232107891234/17627.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ys6y47a7op6wraz24jwaj/Univ-Comedy.jpg?rlkey=z7its5hv5w117p06pkobhh6wb&st=ybkcsesh&dl=0 " group-title="UNIVERSAL",Comedy
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4vpmjsks1oq271vzl2phd/Universal-Comedy.jpg?rlkey=ucf9j7zi7xxn3240hn22vmjfb&st=z22qncbk&dl=0 " group-title="UNIVERSAL",Comedy
 http://liketv.xyz:80/Nicoriojacom/232107891234/212529.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b5372fslm0y2lpxjmn0d1/Univ-Crimenes.jpg?rlkey=7po1v6jmlapj8tfvaj3dh10l1&st=c4ioh1ei&dl=0 " group-title="UNIVERSAL",Crimenes
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qxlqyysu2ya1vmqew5da4/Universal-Crimenes.jpg?rlkey=zy91rngqvqa0bpekesfjtm6mq&st=cueq5aly&dl=0 " group-title="UNIVERSAL",Crimenes
 http://liketv.vip:80/Nicoriojacom/232107891234/126528.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z8nd3siyxp2v9svj7kw2j/Univ-Premiere.jpg?rlkey=ibmh8ipgu06zz7lkc5hgl6kvx&st=7yt45kh5&dl=0 " group-title="UNIVERSAL",Premiere
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/j5nrto4sxv3dxj7ixjld5/Universal-Premiere.jpg?rlkey=1jcs2ir07umxsz5crh3ld6nry&st=4zk4ysu6&dl=0 " group-title="UNIVERSAL",Premiere
 http://liketv.xyz:80/Nicoriojacom/232107891234/67107.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/afxwgfwp43clx7bw84a7o/Univ-Reality.jpg?rlkey=0bokpnb02tps3wflqi67421kq&st=bq24r76b&dl=0 " group-title="UNIVERSAL",Reality
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zpekbqjeyj7rn2uocmiq1/Universal-Reality.jpg?rlkey=l51oq16538cd52e8m4jk42swx&st=k1hnrog1&dl=0 " group-title="UNIVERSAL",Reality
 http://liketv.xyz:80/Nicoriojacom/232107891234/126531.ts
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dlrookhqepvrtzzysb0l9/A-E-Mundo.jpg?rlkey=la3ib83ucof7doz6pppddo82w&st=vjej38v0&dl=0 " group-title="SERIES",A&E Channel
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o7fmhm7hzu98d8x1lyol7/A-E-Mundo.jpg?rlkey=trl61wt2jxlshkufwr2fy7x1z&st=8sys6phr&dl=0 " group-title="SERIES",A&E Channel
 http://liketv.xyz:80/Nicoriojacom/232107891234/7413.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lgnrimmnf4mmun99eno4f/A3S-Series.jpg?rlkey=xte4l5yb4vzkiw0338rua5h7v&st=ju9pzoes&dl=0 " group-title="SERIES",A3S Series
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gss21w7l2nfc80lii3mfc/A-tres-Series.jpg?rlkey=h6kyoq3scbema76uwtf18rc69&st=2m9itwq6&dl=0 " group-title="SERIES",A3S Series
 http://liketv.vip:80/Nicoriojacom/232107891234/7416.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d8bgm8odjdwstvz4g3y3z/Crimen-Real.jpg?rlkey=ctw2vtna5tf395zs0j8kzp641&st=6346ntsf&dl=0 " group-title="SERIES",Crimenes Reales
-https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/playlist.m3u8?ads_amagi_channel=989&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=16&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6735&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=76da2025-7023-487a-a50e-d65767c3417b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/v9ebcj9fudo6yjdxpms9e/AMC-Crimenes.jpg?rlkey=zzuswuq92zywnyeobmrps0zjv&st=gux4slp2&dl=0 " group-title="SERIES",AMC Crimenes
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i2zgf6dpit474fchs5cyx/Crimen-Real.jpg?rlkey=9smceax25blvqqzi5yyr1jtam&st=5pjlg5oe&dl=0 " group-title="SERIES",Crimenes Reales
+https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o2paqkw12e90fwedum9vf/AMC-Crimenes.jpg?rlkey=n21c7fftxchp1w6nmcqjfvoxh&st=virncuuu&dl=0 " group-title="SERIES",AMC Crimenes
 http://vegafibratv.com:8085/AMC/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a3judbluwst5llr86sveu/Melrose-Place.jpg?rlkey=mi5ivwax6roaqrhost5w0xnii&st=ns12a4e5&dl=0 " group-title="SERIES",Melrose Place
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2y3kq9c4q3b5pmkbrpb89/Melrose-Place.jpg?rlkey=r32qaqd5f89vw0pvlxofwxlfq&st=dcvfw8y8&dl=0 " group-title="SERIES",Melrose Place
 https://stitcher.pluto.tv/stitch/hls/channel/6245c03922d9d4000760d205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fdbqivow3fi8f1ohn0m4e/Mundo-Series.jpg?rlkey=mpmqeq9z2edjmiljltet00vtt&st=61n9hgxk&dl=0 " group-title="SERIES",Mundo Series
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dm7pejgm2zhm34tdl365b/Mundo-Series.jpg?rlkey=gdemi3jj74czjgfs7ti5ayirf&st=2k1f64e0&dl=0 " group-title="SERIES",Mundo Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ylk5zps3ynet034gdcbgm/CSI-Miami.jpg?rlkey=3njzb6s5qggu7ylfj4ohhg91t&st=8iivahpn&dl=0 " group-title="SERIES",CSI Miami
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9djegabanxx8xzmbqkvw8/CSI-Miami.jpg?rlkey=0z8kf7dru4tn57gc4vaa2rvdb&st=km4rjyx7&dl=0 " group-title="SERIES",CSI Miami
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wqq3izo00mx7zauudjga6/Nova-TV.jpg?rlkey=hkbb7dqrvraxh58bimkfaas8a&st=yru1g14r&dl=0 " group-title="SERIES",Nova TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yhuxr94nrtyr7hlov9ppj/Nova-TV.jpg?rlkey=8prwrop8u1ab2zfnut2gr7vtc&st=xhbfxbl3&dl=0 " group-title="SERIES",Nova TV
 http://liketv.xyz:80/Nicoriojacom/232107891234/7897.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/55zqj702j27hevlb78klx/Baywatch.jpg?rlkey=orhcyco4pmgxm3zmxjcuutgim&st=bpwkfmux&dl=0 " group-title="SERIES",Baywatch
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3nlam2tnbtnxhy7p7won8/Baywatch.jpg?rlkey=f3j5wyb0w9prz1vs7tb5nr1id&st=c7n216wf&dl=0 " group-title="SERIES",Baywatch
 http://liketv.vip:80/Nicoriojacom/232107891234/185039.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s20720qps1aapphu8rgfx/Calle-13.jpg?rlkey=1opu0c7ykl14neqnu90cqzg1h&st=fdlhx2em&dl=0 " group-title="SERIES",Calle 13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q0mqftig7u50bn0opepxd/Calle-13.jpg?rlkey=5z0aqq77myo5ss9jbgdqxv82j&st=6cr5licf&dl=0 " group-title="SERIES",Calle 13
 http://liketv.vip:80/Nicoriojacom/232107891234/126832.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xdkntxyd7hagy8z9yyxlz/Cops-Espa-ol.jpg?rlkey=yjwrg74slgjtv0kch547w50rq&st=da67dt10&dl=0 " group-title="SERIES",Cops 
-https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6696&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=45c49cb2-d9c6-403d-8348-7f533cec6933&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1470
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xm12d507uerhe0y3mvjop/Dr-Who.jpg?rlkey=1k42iw4h63wm2p4rxfj1x6vet&st=80oj2oyz&dl=0 " group-title="SERIES",Dr Who 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ga3qwhkwwpu7iy8ezbdee/Cops-Espa-ol.jpg?rlkey=y1qa8w4mhdrxwfygugt3l8mr4&st=ia0n66sd&dl=0 " group-title="SERIES",Cops
+https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zks9zm081qybxnewxdgon/Dr-Who.jpg?rlkey=s2wv8h8fahrvpjqduy88o7uqa&st=60cm72fg&dl=0 " group-title="SERIES",Dr Who 
 https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w2lvfefz9y25fdvnwsfi9/Mac-Giver.jpg?rlkey=47hch0y3kbzri1zeitp6ncijg&st=wazojfce&dl=0 " group-title="SERIES",Mac Giver 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/9cyw4pi0gql9bwyed6fts/Mac-Giver.jpg?rlkey=n55zmzbl1dvq96pvsd18fixmw&st=divz8rjx&dl=0 " group-title="SERIES",Mac Giver 
 http://liketv.xyz:80/Nicoriojacom/232107891234/185044.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6wff4343ddv1bnc87ja9z/AXN-Channel.jpg?rlkey=jwttk270i58uxicbbrhkr53zk&st=vr2e7mub&dl=0 " group-title="SERIES",AXN Channel
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7wdz8s7kxu88k621nk719/AXN-Channel.jpg?rlkey=h1xz2ankobkgnmfb09gwezyf4&st=tw98b6wx&dl=0 " group-title="SERIES",AXN Channel
 http://liketv.xyz:80/Nicoriojacom/232107891234/126454.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zve1ytqejmtyqwr9jqskr/TNT-Series.jpg?rlkey=j9qx7nq9t3wki5frbbakn5yjq&st=k17a2pje&dl=0 " group-title="SERIES",TNT Series
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/jr4zwg2amxmg73kerf88i/TNT-Series.jpg?rlkey=tvzyuhni8vpq68ijuenofnjiz&st=yk0ipbqd&dl=0" group-title="SERIES",TNT Series
 http://liketv.xyz:80/Nicoriojacom/232107891234/17530.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2jpjdcc3ps2427jrkgdz6/Sony-Channel.jpg?rlkey=e07e54uv35tm8di7de4ewfotu&st=h0enxgk8&dl=0 " group-title="SERIES",Sony
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k2f90ufxfykez35yylrku/Sony-Channel.jpg?rlkey=ntxs2ibijt20bdmcefg5zsj2q&st=xdn6ds7h&dl=0 " group-title="SERIES",Sony
 http://liketv.xyz:80/Nicoriojacom/232107891234/17644.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yw4v8sjl9pr4mxhetl1cm/Warner-Channel.jpg?rlkey=rrayk8zyqqe3njbla52sso444&st=93yhtx4p&dl=0 " group-title="SERIES",Warner
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9ea6bru6c4jq6drb2ju8q/Warner-Channel.jpg?rlkey=75y7kj3dk95tqk0onigqxbvt4&st=hc9hm1yp&dl=0 " group-title="SERIES",Warner
 http://liketv.xyz:80/Nicoriojacom/232107891234/17540.ts
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mu3rbuddj3zeln3ppl3dh/Canela-TV.jpg?rlkey=xn5untofb00hzy4aawbn4v5u1&st=wggj5q61&dl=0  " group-title="NOVELAS",Canela TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xszyrz9r4onq9kc6lag81/Canela-TV.jpg?rlkey=mfaf8eqlcil1joxlq1zsoptbh&st=6fdhc0s6&dl=0  " group-title="NOVELAS",Canela TV 
 http://liketv.xyz:80/Nicoriojacom/232107891234/155.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8a4uvg3icxz8ftzvk6aqq/Corazon-TV.jpg?rlkey=ohbb500keg6i58myzy386xe8y&st=p8cl3m9m&dl=0 " group-title="NOVELAS",Corazon TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vcxqkcd95zsbtur00zv7c/Corazon-TV.jpg?rlkey=9ifu3i4wi1pslofnakp7y2n1f&st=zoc3zb1f&dl=0 " group-title="NOVELAS",Corazon TV 
 http://liketv.vip:80/Nicoriojacom/232107891234/7552.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3cvn49uinl47zzo6rm0hf/Las-Estrellas.jpg?rlkey=qvd5iyo7o24pxulvto34lklrz&st=69x4odcu&dl=0 " group-title="NOVELAS",Las Estrellas
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t31lj2g7w1syz480fzsby/Ch-de-las-Estrellas.jpg?rlkey=6hqc1go4rnq99uzbz0yd9lamn&st=uxaimu2l&dl=0 " group-title="NOVELAS",Las Estrellas
 http://liketv.xyz:80/Nicoriojacom/232107891234/126936.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.usercontentcom/scl/fi/l1m3zrrel1hmm2qc2gjfr/Magazine.jpg?rlkey=5dxba23k92ycq5hqz1124hwiy&st=es4lui2b&dl=0 " group-title="NOVELAS",Magazine
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oom935l26umuuvr72zy59/Ciudad-Magazine.jpg?rlkey=np08r2of7sgixuyt3imye6u3r&st=roz4nble&dl=0 " group-title="NOVELAS",Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lgksf7o8xvookr13g6utw/Novelisima.jpg?rlkey=t4eqrjl7ulrh601g2vxuxwya4&st=jakn7507&dl=0 " group-title="NOVELAS",Novelisima
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u70c64nn6tqbnveaxcl7r/Novelisima.jpg?rlkey=vp7mkvpq4hx85oznp468dh38c&st=tpjo9pef&dl=0 "group-title="NOVELAS",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/64gr824b0f6x10ljkr9ve/Pasiones.jpg?rlkey=9j1cgv4paqk7xnsqp03cr9ng8&st=opgnzpf0&dl=0 " group-title="NOVELAS",Pasiones
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tsa719gpjr2apxf0auork/Pasiones.jpg?rlkey=c3w5f07mjzrbsckm8wisecbbv&st=ot7psvec&dl=0 " group-title="NOVELAS",Pasiones
 http://liketv.xyz:80/Nicoriojacom/232107891234/185085.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q2q1yjmll86qe284h1a3r/RCN-Novelas.jpg?rlkey=8hmvn76nkziug57ayo3czgebb&st=fhdbeebs&dl=0 " group-title="NOVELAS",RCN Novelas 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ylfbevjsstlxk0sfkgma7/RCN-Novelas.jpg?rlkey=muwqhjkj8wo3kvpf1340xpqq9&st=sgcz877l&dl=0 " group-title="NOVELAS",RCN Novelas 
 http://liketv.xyz:80/Nicoriojacom/232107891234/113385.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wvgben6qqiwt805pvz2r2/Telenovelas.jpg?rlkey=i1kyg3m5syoyipli592c7sdyn&st=oug6svbz&dl=0 " group-title="NOVELAS",Telenovelas 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/eyyyl880thgilw4uwaqyh/Telenovelas.jpg?rlkey=0geqdhz54mbutjhd63ms961bm&st=b2f4cp7o&dl=0 " group-title="NOVELAS",Telenovelas 
 http://liketv.xyz:80/Nicoriojacom/232107891234/185075.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bd6kj0ghpuzvexhywz7qe/TNT-Novelas.jpg?rlkey=bdh8ub5zqkxc8wj5iy3c1sqdg&st=6q66rul9&dl=0 " group-title="NOVELAS",TNT Novelas
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zanroqvas0s9yvjxuiqed/TNT-Novelas.jpg?rlkey=jkde4srcr6kwkrnl5etsrza9l&st=vqiwt0vm&dl=0 " group-title="NOVELAS",TNT Novelas
 http://liketv.xyz:80/Nicoriojacom/232107891234/126520.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/74e3h8o9ocl61vi830a4t/Rosa-de-Guadalupe.jpg?rlkey=n5hd43zrzdvx88uxh6779tezx&st=vsjg2374&dl=0 " group-title="NOVELAS",Rosa de Guadalupe
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7a30v2g8xlzu2yqnacv89/Rosa-de-Guadalupe.jpg?rlkey=zq3mbokno8tmva41y8whyldj6&st=7bvioaek&dl=0 " group-title="NOVELAS",Rosa de Guadalupe
 http://liketv.vip:80/Nicoriojacom/232107891234/185023.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l01v6c6gfaabuzfpc484r/Divinity.jpg?rlkey=591n56oba0w0648cbcbrvz29t&st=evfj40pu&dl=0 " group-title="NOVELAS",Divinity
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2ju8uzc5q678zujuxqn9t/Divinity.jpg?rlkey=tuvrn9y4s8n3gyul7q7jsxq14&st=f5gosr9z&dl=0 " group-title="NOVELAS",Divinity
 http://liketv.vip:80/Nicoriojacom/232107891234/7886.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i0aqgmlzxw6ospkc8fyn5/Factoria-de-Ficcion.jpg?rlkey=wfh6en1ln2zcqka59jon864ow&st=e61d7xes&dl=0 " group-title="NOVELAS",Factoria de Ficcion
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/38u8ucjja6ru9pu8182fd/Factoria-de-Ficcion.jpg?rlkey=bbbys7yznoc5horp9alecnkqa&st=m075mzud&dl=0 " group-title="NOVELAS",Factoria de Ficcion
 http://185.189.225.150:85/fdf/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/muq737oh7uvgucwqih9tr/Kanal-D.jpg?rlkey=el4d6ws3tspqozc3ol3040pkm&st=dy56foh7&dl=0 " group-title="NOVELAS",Kanal D
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/87qs6qiyp8bkv00yhr058/Kanal-D.jpg?rlkey=wjr0js8ueyaw0no3k2gkxbqt4&st=xb76mp99&dl=0 " group-title="NOVELAS",Kanal D
 http://liketv.xyz:80/Nicoriojacom/232107891234/126478.ts
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3shuyjqp9je9xyahf3mrq/Argentinisima.jpg?rlkey=l0064jtlelsyhj8yyfoxulbri&st=0u9rcj2x&dl=0 " group-title="Musica",Argentinisima
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t7s4tceljzfjpq3xbvfaz/Argentinisima.jpg?rlkey=rb498zaev94y0x6g4g572xj1t&st=1llxjzj8&dl=0 " group-title="Musica",Argentinisima
 http://liketv.xyz:80/Nicoriojacom/232107891234/8478.m3u8
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/2p6w4xci7e471cue2afm1/Bandamax.jpg?rlkey=079oxj70t2ozx6v4qf4oznxk9&st=anplym9d&dl=0" group-title="Musica",Bandamax
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i9k1n9enjnvmgym6uqkch/Bandamax.jpg?rlkey=jqhmuelkj5oaaio0jvxb2ofyw&st=qh0h13ci&dl=0 " group-title="Musica",Bandamax
 http://liketv.xyz:80/Nicoriojacom/232107891234/211572.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/aq4qlyk0ncopbgu6cu0s4/CH-de-la-Musica.jpg?rlkey=zv0d4y8sw93v9cg5k2prktm0k&st=3vt654cw&dl=0 " group-title="Musica",CH de la Musica 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p5qm35y2fj9jkxkhvi9x3/Ch-de-la-Musica.jpg?rlkey=b2y8dbt23xdlddwq70g8rpgpz&st=uwvr532s&dl=0 " group-title="Musica",CH de la Musica 
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6knrqw3uo20kfwdt1enmv/Mundo-de-la-Musica.jpg?rlkey=8n9pqlzkzaxtq61miwnrjga5t&st=9f57crv4&dl=0 " group-title="Musica",Mundo Musica
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nmme2nmdgsue90f45dann/Mundo-de-la-Musica.jpg?rlkey=61fky1ntmiqfzfja6xdi7lm1i&st=62gr7hbz&dl=0 " group-title="Musica",Mundo Musica
 https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3y3amof5n6cnj1lhoyeri/MTV-Hits.jpg?rlkey=gnibrbif096us2hr3gj9x0ys1&st=go34p7kz&dl=0 " group-title="Musica",MTV Hits
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/y21bstcb240oq4fcbi4q0/MTV-Hits.jpg?rlkey=sw85rlv2hz88byjpteh8r2lln&st=vwgjofch&dl=0 " group-title="Musica",MTV Hits
 http://liketv.xyz:80/Nicoriojacom/232107891234/207794.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r3mc3zz7cmroy02vxvpx9/Quiero-Musica.jpg?rlkey=fbg5vsh55ppuu2cy3r0knjm64&st=z3wuzmbq&dl=0 " group-title="Musica",Quiero Musica
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/73q6n61q0m13t69in98tm/Quiero-Musica-Tv.jpg?rlkey=8k4e85duywenjdi0p9tioxl7o&st=4ncmjset&dl=0 " group-title="Musica",Quiero Musica
 http://liketv.xyz:80/Nicoriojacom/232107891234/187949.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qe4bkv9tealg5csxovlie/MTV-80s.jpg?rlkey=5ett3o4lwvldpmgahl2g8z10m&st=g6ka15bu&dl=0 " group-title="Musica",MTV '80s
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/po7zdfvr0a79m6gpaipgv/MTV-80s.jpg?rlkey=ldqitef2s5roarzkiah1s7gp8&st=ckqm2109&dl=0 " group-title="Musica",MTV '80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dwbbtdqrigov86z4xjp3g/Music-Top.jpg?rlkey=x5lwh3zqrhgkmr72aj528myub&st=rbyok79j&dl=0 " group-title="Musica",Music Top
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/94fj2ucx1ptrfyhrinko0/Music-Top.jpg?rlkey=lqf6mchjlgjbjkif15w2imu3x&st=othhly43&dl=0 " group-title="Musica",Music Top
 http://liketv.xyz:80/Nicoriojacom/232107891234/187950.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q3uferc7dqv82scxs9cm6/Regional.jpg?rlkey=6edsb7pxtma76l6uyoth5yx6e&st=lbld5ox5&dl=0 " group-title="Musica",Regional
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7vr1odq508fu7mishp7sq/Mi-Musica-Regional.jpg?rlkey=1wu37ewyow8ek02waajpl3ovx&st=djc19u5q&dl=0 " group-title="Musica",Regional
 http://liketv.xyz:80/Nicoriojacom/232107891234/212535.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vso9zx800r6ub75iw9esz/Salsa.jpg?rlkey=jnkapsxsgie8jntfwanndd9xa&st=qhpu9mna&dl=0 " group-title="Musica",Salsa
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vn0htnh5slry9l6wy8x5q/Mi-Musica-Salsa.jpg?rlkey=qvn3ace4qwps1vdllvtppc7yd&st=zsigg536&dl=0 " group-title="Musica",Salsa
 http://liketv.xyz:80/Nicoriojacom/232107891234/212537.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9p4dp1ph76al659uegujs/Reggaeton.jpg?rlkey=tt1463707g177mckpvp72wfyz&st=doippvn7&dl=0 " group-title="Musica",Reggaeton
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kwnl6tgkc1xf3z8t789rr/Mi-Musica-Reggaeton.jpg?rlkey=uyz2g3kaz41oe2kept6v1dl09&st=l3h8loxg&dl=0 " group-title="Musica",Reggaeton
 http://liketv.xyz:80/Nicoriojacom/232107891234/212534.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1rl43wskevvxj52sjeqla/Nick-Music.jpg?rlkey=6bzgrniq6poziy73oa0am28rm&st=vl9x35bx&dl=0 " group-title="Musica",Nick Music
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jh9rvc53qnpkvw5q3hplb/Nick-Music.jpg?rlkey=hrkrmqejp9q7o5tq16idbbhpj&st=b2vv9wjj&dl=0 " group-title="Musica",Nick Music
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s49wevhxhp44yeejzkbab/The-Retro-CHannel.jpg?rlkey=zcpuo6zaprfvzv49ygrfvblqs&st=7olyxri0&dl=0 " group-title="Musica",Retro
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/no4yo14xxfyv9cy1b7c90/Retro-Channel.jpg?rlkey=gtwpl3wm8hwokibxgwqsa69gu&st=z92kdsef&dl=0 " group-title="Musica",Retro
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/peuk094uyq6jzis9lhu6b/Telehit-Musica.jpg?rlkey=kfy6aafd3giuh22lw8w9u8nzi&st=eocix2or&dl=0 " group-title="Musica",Telehit
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/39t9f9k4n0n8hwty1vu3n/Telehit-Musica.jpg?rlkey=8ldwl2868c4go651fxddl5p4v&st=gtz9kq87&dl=0 " group-title="Musica",Telehit
 http://liketv.xyz:80/Nicoriojacom/232107891234/211578.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.usercontentcom/scl/fi/6x8do1iheg8r700u6s07r/Teleritmo.jpg?rlkey=hlc3vkz1btth0ieisiysytcwk&st=ppnejdmj&dl=0 " group-title="Musica",Teleritmo 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/la5ro0kqh2u5gas2kskpx/Teleritmo.jpg?rlkey=0nfvz70f916ow3unkt2fvi4y8&st=1m9w6q53&dl=0 " group-title="Musica",Teleritmo 
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1l483j70tvxgoqcp77h1s/Cumbia-TV.jpg?rlkey=hcl5rgcdf5jeweg8spdyv4kk0&st=ao65jgjh&dl=0 " group-title="Musica",Cumbia
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qnped5gbz8s9w3z8hthtg/Cumbia-TV.jpg?rlkey=eqf93j0bnf3a4elyqzhft73ib&st=7plgbk53&dl=0 " group-title="Musica",Cumbia
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iiwsi7n0kq0fuxfsw9ll0/Sol-Musica.jpg?rlkey=72wqjw3twlb7t18zap1p8h92o&st=nh8kcnk6&dl=0 " group-title="Musica",Sol Musica
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lkcy7l2ytm99k3poda1h6/VClassic-TV.jpg?rlkey=33qzd844ey807x8znfzvheleu&st=3mjtth65&dl=0 " group-title="Musica",VClassic
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cm76nb8wdsepug1azp78b/Cadena-Elite.jpg?rlkey=8iiton6vteqizvdbr4c3yu7pk&st=uwmsl6zz&dl=0 " group-title="Musica",Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uuo6xtjtqjsgk2jixnadq/VClassic-Music.jpg?rlkey=4pledvwvq0xsgi86in3uwb505&st=3uefx9ol&dl=0 " group-title="Musica",VClassic
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u9p33t33odpre8no32oj9/Vintage-Musica.jpg?rlkey=fh5bwx1b1ym5scairvyqbovxy&st=rt5o88l7&dl=0 " group-title="Musica",Vintage 
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/6xtry7udcace1e1johrd8/Vintage-Music.jpg?rlkey=25kq4dhtor4zxa0nq5zu7d1rn&st=tfynsdqg&dl=0" group-title="Musica",Vintage 
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
