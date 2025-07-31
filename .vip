@@ -30,6 +30,8 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 http://liketv.xyz:80/Nicoriojacom/232107891234/15895.ts
 
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9nbsw1mdkl9mlac4ed5wc/Canal-8-Rosario.jpg?rlkey=f6ihzuh9eksa543uhq9lro0m1&st=ldixtifw&dl=0 " group-title="INTERIOR",Ch 8 Rosario
+https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yeo93cfj3okrvijfls539/Catamarca-TV.jpg?rlkey=22ft0oeics9j2t2hk0mfti9q1&st=cceuzzkq&dl=0 " group-title="INTERIOR",Catamarca
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s8mqjjd59im5u14rwxrsf/TV-Chaco.jpg?rlkey=y5epdw99wcg2dkwkyqtxj7vez&st=lpcgcz84&dl=0 " group-title="INTERIOR",Chaco
