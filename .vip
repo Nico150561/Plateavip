@@ -122,12 +122,12 @@ http://liketv.pro:80/Nicoriojacom/232107891234/187445.ts
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qzalpcpv03ataxktkydy2/RT-Noticias.jpg?rlkey=jod2f0dqclikgjcwgy92dqyry&st=9l65o23n&dl=0 " group-title="NOTICIAS",RT Noticias
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/v1b4sgkyzsaqc2g72fux9/Telemundo.jpg?rlkey=mbpncz4rerqxm5gsbkttiymde&st=5beshx4t&dl=0 " group-title="NOTICIAS",Telemundo 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/v1b4sgkyzsaqc2g72fux9/Telemundo.jpg?rlkey=mbpncz4rerqxm5gsbkttiymde&st=5beshx4t&dl=0 " group-title="NOTICIAS",Telemundo. 
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/emswotla8420te48pcu7q/Telesur.jpg?rlkey=um4twz1znnmif4vdaw2wrxgrs&st=7f6fw8a1&dl=0 " group-title="NOTICIAS",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/emswotla8420te48pcu7q/Telesur.jpg?rlkey=um4twz1znnmif4vdaw2wrxgrs&st=7f6fw8a1&dl=0 " group-title="NOTICIAS",Telesur.
+http://liketv.vip:80/Nicoriojacom/232107891234/8113.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/13cewdxant67ggudlgwm2/24-Hs-Espa-a.jpg?rlkey=n8a95z3mhywt68c6h75hc9z25&st=fz1as2xs&dl=0 " group-title="NOTICIAS",24 Hs. España
-https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q2jg5ri7kke7r977cge8p/24-Hs-Chile.jpg?rlkey=6r1arepmizy0o907ljp6r8vlc&st=0z9m0zic&dl=0 " group-title="NOTICIAS",24 Hs. Chile
 http://liketv.xyz:80/Nicoriojacom/232107891234/186.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2nofb3rrje5tlpnjajsu5/El-Pais.jpg?rlkey=ueuzx7jw8q33r33j39b72ka69&st=s0a0sjmm&dl=0 " group-title="NOTICIAS",El Pais
@@ -135,14 +135,18 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zj5sbjw1tm4sgacuegjby/El-Confidencial.jpg?rlkey=n06szx2p3mzwz13dq40od3pzr&st=vnqdvhr3&dl=0 " group-title="NOTICIAS",EL Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zfsl2koh538z470c4c5ih/Rai-24-Horas.jpg?rlkey=121dz48zpwj0mmktenoey76do&st=b9juudps&dl=0 " group-title="NOTICIAS",Rai 24 Horas
-http://liketv.vip:80/Nicoriojacom/232107891234/223001.ts
+http://liketv.pro:80/Nicoriojacom/232107891234/222984.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xa8js5bg4q3p2lyhh7cic/Euronews.jpg?rlkey=kjy6t7j9ufmxb6e2z298o788o&st=2h841icr&dl=0 " group-title="NOTICIAS",Euronews
 http://tv.nousiptv.com:8080/manuylucio@gmail.com/9Z5iqft9A4/1072128
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1497284vktjxn98t9glfq/Estrella-News.jpg?rlkey=u7wcuksnqrd2izwo6a42cjjoh&st=ko9jwa0y&dl=0 " group-title="NOTICIAS",Estrella News
 https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pnho6kf14h2ujt59ywbxn/NTN24.jpg?rlkey=nb28cprdv66c6anzpiuh2t0hu&st=sfwhx441&dl=0 " group-title="NOTICIAS",NTN 24
+http://tv.nousiptv.com:8080/manuylucio@gmail.com/9Z5iqft9A4/41815
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3r38oq9nmezes3hb40j2t/Galavision.jpg?rlkey=4apgzt3gst03krumqhpt8paez&st=s78l9wb2&dl=0 " group-title="NOTICIAS",Galavision
+http://liketv.vip:80/Nicoriojacom/232107891234/184105.ts
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1igv76p3zi7h5ezlykepj/Bein-Sports.jpg?rlkey=b899rqo5phmawm47e6vtb9da2&st=1sotwrej&dl=0 " group-title="DEPORTES",Bein Sports
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1igv76p3zi7h5ezlykepj/Bein-Sports.jpg?rlkey=b899rqo5phmawm47e6vtb9da2&st=1sotwrej&dl=0 " group-title="DEPORTES",Bein Sports.
 http://liketv.xyz:80/Nicoriojacom/232107891234/127.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/x72yv2z2ujzxiwinf7mwv/Dazn-Sports.jpg?rlkey=wra019pl7n2vnnz3ftvnqit19&st=qr58sa3k&dl=0 " group-title="DEPORTES",Dazn Sports
 http://liketv.vip:80/Nicoriojacom/232107891234/7832.ts
@@ -151,7 +155,7 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/126779.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/99azy3425z2f3wv9na2hz/Teledeporte.jpg?rlkey=404mlkuuuitet1a5ueviidr91&st=42oiqczb&dl=0 " group-title="DEPORTES",Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/41ihtptw526egxqmk8bm8/Tigo-Sports.jpg?rlkey=4ym7ygcti2zjjw7aq0zkx4zhx&st=n4g4l1vd&dl=0 " group-title="DEPORTES",Tigo Sports
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+http://liketv.xyz:80/Nicoriojacom/232107891234/7267.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4l7w33iizt46xzw45u00t/Tudn-Sports.jpg?rlkey=fime3jgznj0tvmbcdbah3ieh4&st=t1ix9b40&dl=0 " group-title="DEPORTES",Tudn Sports
 http://liketv.xyz:80/Nicoriojacom/232107891234/7215.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/x2tb6smtrb9ygnm25exun/Win-Sports.jpg?rlkey=bbvo47rhkf8qx7d21vioe7dr4&st=46med6g0&dl=0 " group-title="DEPORTES",Win Sports
