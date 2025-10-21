@@ -111,9 +111,9 @@ https://vcp12.myplaytv.com/trt/trt/playlist.m3u
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fcgu6sm9iku6qzjni6nxh/TV-Mexico.jpg?rlkey=htboro5o67eb4ymojbdpce9fm&st=5ju7a181&dl=0 " group-title="EXTRANJEROS",Mexico
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u03ybitehuimzfqvyevc0/TVE-Espa-a.jpg?rlkey=v1ne4vntnek8q7o6mdt4yo5o8&st=v24m5sb3&dl=0 " group-title="EXTRANJEROS",España
-http://jellyiptv.streamtv.to:8080/KaljaOS/8Emtqzv62k/7427
+https://ztnr.rtve.es/ztnr/6688753.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7q9sf2crn2iywc2i2c39k/TV-Italia.jpg?rlkey=90yz8wsdb3yhn1o5zwep8b7zd&st=kcfih9pb&dl=0 " group-title="EXTRANJEROS",Italia
-https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+http://liketv.xyz:80/Nicoriojacom/232107891234/222984.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ywod8n3hlb88i3mjubru1/Alemania.TV.jpg?rlkey=qff16qlfjvmdjo6g0vjuhbm2p&st=2mg6xde0&dl=0 " group-title="EXTRANJEROS",Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zskigywjs2lhy6kur4h8t/France-24.jpg?rlkey=k0hs1n3fxrr79isfhcnuu9jhd&st=49xrvidn&dl=0 " group-title="EXTRANJEROS",Francia
@@ -136,16 +136,16 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 http://liketv.xyz:80/Nicoriojacom/232107891234/186.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2nofb3rrje5tlpnjajsu5/El-Pais.jpg?rlkey=ueuzx7jw8q33r33j39b72ka69&st=s0a0sjmm&dl=0 " group-title="NOTICIAS",El Pais
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zj5sbjw1tm4sgacuegjby/El-Confidencial.jpg?rlkey=n06szx2p3mzwz13dq40od3pzr&st=vnqdvhr3&dl=0 " group-title="NOTICIAS",EL Confidencial
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2guf5kgo28wktph1ws7a2/Televisa.jpg?rlkey=n0hj5smjj6qpzc6o17gh18in2&st=1p3atjch&dl=0 " group-title="NOTICIAS",Televisa
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761059979/ei/K1D3aJu3KYD5-LAPl-SHmA8/ip/181.93.127.138/id/0psOGZ6ypa0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567920/txs/51567915%2C51567916%2C51567920/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ATw7iSXPeJxykYbTC1ZS01IlEzBfYKDEKkwY7qc4NKchbsEPKJkd7-fTGaxh6YAT3rfzaVVm-AZ4Y0pp/spc/hcYD5SFJWWtFSA4cspQWw7WauPAaLoGQbfh_X3a8rwmc9Hyz4nX9yLm3ZcHNn6cDbT8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51514993%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANmpdZwr5xFYPQ34E7PicNu12r0LlAzVwFftxggZC_xSAiEAmmRMVr6EQcvPYGIZ6ciphrSFM7v896-IY5UdZLHYJD4%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zfsl2koh538z470c4c5ih/Rai-24-Horas.jpg?rlkey=121dz48zpwj0mmktenoey76do&st=b9juudps&dl=0 " group-title="NOTICIAS",Rai 24 Horas
 http://liketv.pro:80/Nicoriojacom/232107891234/222984.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xa8js5bg4q3p2lyhh7cic/Euronews.jpg?rlkey=kjy6t7j9ufmxb6e2z298o788o&st=2h841icr&dl=0 " group-title="NOTICIAS",Euronews
-http://tv.nousiptv.com:8080/manuylucio@gmail.com/9Z5iqft9A4/1072128
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761059689/ei/CU_3aLy0O4eG9cYP38vQgAw/ip/181.93.127.138/id/O9mOtdZ-nSk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567920/txs/51567915%2C51567916%2C51567920/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSWJNMuef3f6EywmLImtiw183PIPcYvR8IP_KnfbZRVgM9owcdRwVRRI0DkoYXF5mzzk4NmeHLNf/spc/hcYD5Ua70p74Hz8376V8jmj7wzjJB9TFOXTeVsvIdCUspZSxD4InQbeOBHMqcqeSjRY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51514993%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPcTQEuPuvJHuvvTJIwZWt2dWGfGI9Y1dbTEKwJmEjYRAiBnUHUplh2Vpov-wAQ3biEaix0UyVPdSnNXIGmoZkVSRg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1497284vktjxn98t9glfq/Estrella-News.jpg?rlkey=u7wcuksnqrd2izwo6a42cjjoh&st=ko9jwa0y&dl=0 " group-title="NOTICIAS",Estrella News
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pnho6kf14h2ujt59ywbxn/NTN24.jpg?rlkey=nb28cprdv66c6anzpiuh2t0hu&st=sfwhx441&dl=0 " group-title="NOTICIAS",NTN 24
-http://tv.nousiptv.com:8080/manuylucio@gmail.com/9Z5iqft9A4/41815
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/34a5ek0u2vu37l6xuz8uz/Cable-Noticias.jpg?rlkey=2mjaafe41pucijyvb52gl0aap&st=ofs3vxoc&dl=0 " group-title="NOTICIAS",Cable Noticias
+http://liketv.vip:80/Nicoriojacom/232107891234/7694.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3r38oq9nmezes3hb40j2t/Galavision.jpg?rlkey=4apgzt3gst03krumqhpt8paez&st=s78l9wb2&dl=0 " group-title="NOTICIAS",Galavision
 http://liketv.vip:80/Nicoriojacom/232107891234/184105.ts
 
@@ -155,9 +155,9 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/127.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/x72yv2z2ujzxiwinf7mwv/Dazn-Sports.jpg?rlkey=wra019pl7n2vnnz3ftvnqit19&st=qr58sa3k&dl=0 " group-title="DEPORTES",Dazn Sports
 http://liketv.vip:80/Nicoriojacom/232107891234/7832.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/egsom30yyoyy1az4ismcr/Eurosport.jpg?rlkey=i6urfvxqel4mo49rm9b7bd7nr&st=7milrivv&dl=0 " group-title="DEPORTES",Eurosport
-http://liketv.xyz:80/Nicoriojacom/232107891234/126779.ts
+http://jellyiptv.streamtv.to:8080/KaljaOS/8Emtqzv62k/79801
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cv1d72x7e8rnrlhz2czd7/Sky-Sports.jpg?rlkey=btyn5bkchnw9lf7o5t911mn1j&st=w5cj1pda&dl=0 " group-title="DEPORTES",Sky Sports
-http://liketv.pro:80/Nicoriojacom/232107891234/47373.ts
+http://liketv.xyz:80/Nicoriojacom/232107891234/47373.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/41ihtptw526egxqmk8bm8/Tigo-Sports.jpg?rlkey=4ym7ygcti2zjjw7aq0zkx4zhx&st=n4g4l1vd&dl=0 " group-title="DEPORTES",Tigo Sports
 http://liketv.xyz:80/Nicoriojacom/232107891234/7267.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4l7w33iizt46xzw45u00t/Tudn-Sports.jpg?rlkey=fime3jgznj0tvmbcdbah3ieh4&st=t1ix9b40&dl=0 " group-title="DEPORTES",Tudn.Sports
@@ -172,7 +172,7 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/135.ts
 http://liketv.xyz:80/Nicoriojacom/232107891234/137.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ycf2wtexr9nw5kadj2e3c/ESPN-3.jpg?rlkey=9qsseebdlupm9uife759h8vdj&st=ta1rb6u3&dl=0 " group-title="DEPORTES",ESPN.3
 http://liketv.xyz:80/Nicoriojacom/232107891234/115289.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/69s2yre22jod418lrw3cg/ESPN-4.jpg?rlkey=yh69ucjp7l5dm8s2mhqmz97wc&st=1o4ng3kj&dl=0 " group-title="DEPORTES",ESPN.4
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/69s2yre22jod418lrw3cg/ESPN-4.jpg?rlkey=yh69ucjp7l5dm8s2mhqmz97wc&st=1o4ng3kj&dl=0 " group-title="DEPORTES",ESPN 4
 http://liketv.xyz:80/Nicoriojacom/232107891234/115293.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g8g02y5ywm6zxi7nrso1f/ESPN-5.jpg?rlkey=8ovg8h3xyfceickc0wa3jw1sk&st=lmo94wy2&dl=0 " group-title="DEPORTES",ESPN 5
 http://liketv.vip:80/Nicoriojacom/232107891234/7217.ts
@@ -211,13 +211,13 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qsve8smft53m48zgl6fa3/bitMe-Channel.jpg?rlkey=p43oqzdrr31iixdzzy6cfma3x&st=xnl4k2g6&dl=0 " group-title="INFANTILES",bit Me
 http://liketv.xyz:80/Nicoriojacom/232107891234/126455.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rpmoebxbbse6pbqeixcyz/Clan-TVE.jpg?rlkey=flsd6y924iysiuj5jbkhg4x6g&st=2dl5gpjd&dl=0 " group-title="INFANTILES",Clan TVE
-https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+http://liketv.pro:80/Nicoriojacom/232107891234/126870.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hu5zc1gjup43n09gyavje/Cartoon-Network.jpg?rlkey=6a69kmyqxqiy3lzuqz5axij88&st=uw3za46z&dl=0 " group-title="INFANTILES",Cartoon
-http://liketv.xyz:80/Nicoriojacom/232107891234/8013.ts
+http://liketv.xyz:80/Nicoriojacom/232107891234/8012.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/njb3xmfwko5jyy5i8qpg0/Cartoonito.jpg?rlkey=02j7gzo2gpnrl2hsnhb3g04lh&st=1gfxnn1q&dl=0 " group-title="INFANTILES",Cartoonito
 http://liketv.vip:80/Nicoriojacom/232107891234/8017.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/20dj0smg8cg84shkp3dkn/Disney-Channel.jpg?rlkey=7loxyk4xu35bh8obojfdpqz45&st=ujztjbip&dl=0 " group-title="INFANTILES",Disney
-http://liketv.xyz:80/Nicoriojacom/232107891234/126868.ts
+http://liketv.xyz:80/Nicoriojacom/232107891234/8020.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xhj6g4d64jbaweo2jgxl9/Disney-Jr.jpg?rlkey=grgzmr1odrc9tdmcuvinkm9m7&st=1oa2rulw&dl=0 " group-title="INFANTILES",Disney Jr
 http://liketv.xyz:80/Nicoriojacom/232107891234/8022.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fru3wiu5gepfmlir23knm/Extrema-Kids.jpg?rlkey=cd3x4c1cfqk5a2ha8h30adwaq&st=48zcv7mo&dl=0 " group-title="INFANTILES",Extrema Kids
@@ -227,11 +227,11 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lpirrzj21369ib8nbwfyr/Magic-Kids.jpg?rlkey=k56rtyo70c8gwnxz9srcnv8lh&st=h38tr89x&dl=0 " group-title="INFANTILES",Magic Kids
 http://liketv.xyz:80/Nicoriojacom/232107891234/8467.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dssl1aeeiyjq2l5dq04ov/Nickelodeon.jpg?rlkey=9jdmbomioxckhsx1ob7v17b6u&st=py9r2k56&dl=0 " group-title="INFANTILES",Nickelodeon.
-http://185.189.225.150:85/nickelodeon/index.m3u8
+http://liketv.pro:80/Nicoriojacom/232107891234/126867.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/c9qv5l7iuotlbi0qs00e8/Teennick.jpg?rlkey=fiqho2joh5tnnb2knc8ltfw94&st=tfftu8kg&dl=0 " group-title="INFANTILES",Teennick.
 http://liketv.xyz:80/Nicoriojacom/232107891234/182411.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/10p8r02u1sb9jiu29exdr/Tooncast.jpg?rlkey=r6p3sul1fgeiukkz1gvhpkpg4&st=kszf3a05&dl=0 " group-title="INFANTILES",Tooncast.
-http://liketv.xyz:80/Nicoriojacom/232107891234/125372.ts
+http://canal-pro.xyz:8080/933032805tv/83e4jg/399
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fw4zexkqvklx20qh7rqyk/Alf.jpg?rlkey=m9i49ztax94blmhv71osna5lt&st=k81z73ss&dl=0 " group-title="INFANTILES",Alf
 http://liketv.xyz:80/Nicoriojacom/232107891234/185004.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hmlh4s7qys0o7tc7xczgb/Barbe-TV.jpg?rlkey=5g02xqdmf91jxjylfhvlwxv6b&st=gaybnj24&dl=0 " group-title="INFANTILES",Barbe TV
@@ -243,7 +243,7 @@ https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dzy6f5d6v8v6u3wel6v0m/Ninja-Boy.jpg?rlkey=a5g7qmwli7kmx4ekht8nfnol0&st=wf57jfx3&dl=0 " group-title="INFANTILES",El Ninja Boy
 https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ezf7w88zhlhj2wt8rcqk4/Chespirito.jpg?rlkey=jcz8vkd2xm8f0lb1426cpr5a5&st=z92o7ib0&dl=0 " group-title="INFANTILES",Chespirito
-http://liketv.xyz:80/Nicoriojacom/232107891234/185006.ts
+http://canal-pro.xyz:8080/933032805tv/83e4jg/691
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z0tt8is6tgpk3min9emdh/Chapulin-colorado.jpg?rlkey=5h5z13da7i9od888kn9qm7irh&st=hwe2e1yl&dl=0 " group-title="INFANTILES",Chapulin 
 http://liketv.xyz:80/Nicoriojacom/232107891234/185018.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ue9pz4pxkoqzhkjoo2ceu/El-Chavo.jpg?rlkey=fbc94l0ubzyw715nv06n24h5o&st=vl27w3r0&dl=0 " group-title="INFANTILES",El Chavo 
@@ -252,26 +252,26 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/185005.ts
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g4hjtbbam2hcv21kmczxk/Dragon-Ball-Z.jpg?rlkey=zjyg85t4vz8y4m18w9cji9z8n&st=3rd22fdt&dl=0 " group-title="INFANTILES",Dragon Ball Z
 http://liketv.xyz:80/Nicoriojacom/232107891234/253184.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/huzv71fu2cwhhw08nslm8/Power-Ranger.jpg?rlkey=f23knwouv3pelh6dnuwiwgrs7&st=d4ocg4na&dl=0 " group-title="INFANTILES",Power Ranger
-http://liketv.xyz:80/Nicoriojacom/232107891234/185032.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4fd4tr9aox75fjrebmg1v/Tom-y-Jerry.jpg?rlkey=98u2pmw7ckeeevlg1gg6yj0im&st=lv6lsygn&dl=0 " group-title="INFANTILES",Tom & Jerry
+http://liketv.pro:80/Nicoriojacom/232107891234/317300.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1pmcaf5dnoo6dtt3q5gls/Dreiko-TV.jpg?rlkey=gkhyrxzbbjkw24zk5s31e5l3p&st=b9k9mdw6&dl=0 " group-title="INFANTILES",Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1eai0bw4jh8xcfpevoqdd/Yu-Gi-Oh.jpg?rlkey=vac1nx2273p28o59xdk6mk4w8&st=2aiho4kw&dl=0 " group-title="INFANTILES",Yu Gi Oh
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q49h1qpb03gm0u6dd6njj/Kuriakos-Kids.jpg?rlkey=m3jq26skhnzein73ysvh76fxu&st=ofkafeul&dl=0 " group-title="INFANTILES",Kuriakos Kids
 https://w2.manasat.com:443/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n84jehixa90mksoz2z59g/South-Park.jpg?rlkey=t2qetx9k1cwgitod2wal0169a&st=5ub0xxhi&dl=0 " group-title="INFANTILES",South Park
-http://liketv.xyz:80/Nicoriojacom/232107891234/185007.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/e6v1zivlljndibhz5cgt1/Paka-Paka.jpg?rlkey=tiedcvmhx2emcgobznw08254g&st=2hk8c49x&dl=0 " group-title="INFANTILES",Paka Paka
-http://liketv.xyz:80/Nicoriojacom/232107891234/97.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p2xi5h8zdu7rgxy5k8k6g/Zoo-Moo-Kids.jpg?rlkey=mt76ubbmlo2z8h4g9ukvegp70&st=eoq0gymp&dl=0 " group-title="INFANTILES",Zoo Moo
+http://liketv.pro:80/Nicoriojacom/232107891234/114982.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hdpicpedxqm68orayp44i/Pantera-Rosa.jpg?rlkey=9qw1d01tnoln3m1ikmdohbqk4&st=ye2a4zy9&dl=0 " group-title="INFANTILES",Pantera Rosa
+http://liketv.xyz:80/Nicoriojacom/232107891234/317329.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6c08gf1mzn69ikjxzb6fs/Impacto-TV.jpg?rlkey=ct6d1ts5d5r841x53o8relxfw&st=m4v9blba&dl=0 " group-title="INFANTILES",Impacto TV
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/39bhis2df1m0d4ip20auj/Logo-Kids.jpg?rlkey=qu1spi15notgfycbpep3eir2v&st=6bjwimos&dl=0 " group-title="INFANTILES",Logo Kids
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xaxtsh9hv7whkvci3rx4h/Locos-Addams.jpg?rlkey=ovyiwi7c0scnqo6m6vlnn28i0&st=b5s0zwph&dl=0 " group-title="INFANTILES",Locos Addams
-http://liketv.xyz:80/Nicoriojacom/232107891234/185031.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d35ja9rsm7fuprx01qk8a/Caillou.jpg?rlkey=n9flta499wyj2i7ydge24bnqk&st=3fzzbftd&dl=0 " group-title="INFANTILES",Caillou
-https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3591&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=f151b854-19e2-461a-ad68-06993c6358b5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=665
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nnpg20fh4p9n8liueobfb/Adult-Swim.jpg?rlkey=7i4mo565i45yn17lp7vydp0d5&st=7x2n70h5&dl=0 " group-title="INFANTILES",Adult Swim
+http://liketv.pro:80/Nicoriojacom/232107891234/126452.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/krci4f7yt7i24fzdg2k5c/Bob-Esponja.jpg?rlkey=0yzxse41w9kantarchiug9l4k&st=075cdg94&dl=0 " group-title="INFANTILES",Bob Esponja
+http://liketv.pro:80/Nicoriojacom/232107891234/325560.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ee6d5qc72xl5yw9ihc4vh/Los-Simpsons.jpg?rlkey=m989olnludx24p2ju4e8la9sy&st=4elbv0z8&dl=0 " group-title="INFANTILES",Los Simpsons
 http://liketv.xyz:80/Nicoriojacom/232107891234/131680.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3y952cjxmmsl3h0cwi5c5/Dreamworks.jpg?rlkey=k8joykzkdlnxick8hk7rqywjs&st=33a7rzey&dl=0 " group-title="INFANTILES",Dreamworks
@@ -282,8 +282,8 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qxli23psqxil2xbccczts/Mr-Bean.jpg?rlkey=m7k9ddn8vkoylb2qwjsa3inbp&st=laym19tx&dl=0 " group-title="INFANTILES",Mr Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/578vgzf0dlb6qr1gej9yv/Kanade.jpg?rlkey=muclmt8cd67qjayyvxy1s5ghy&st=zw77ul0f&dl=0 " group-title="INFANTILES",Kanade
-https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/20i5g0lps6shysrhn925i/Mi-Bella-Genio.jpg?rlkey=yulc72n1i5yv4hwavl2pj9x9h&st=s75fmw8u&dl=0 " group-title="INFANTILES",Bella Genio
+http://liketv.pro:80/Nicoriojacom/232107891234/185027.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mygy0f7fxn2aqobm9c98n/El-Pajaro-Loco.jpg?rlkey=uyi3t7oq2ue0j8z5msr3azwhu&st=a28oi3is&dl=0 " group-title="INFANTILES",Pajaro Loco
 http://liketv.vip:80/Nicoriojacom/232107891234/317304.ts
 
