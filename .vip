@@ -390,6 +390,10 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i7xqwjpkvhnbl7hzfd735/Universal-TV.jpg?rlkey=0auldajo7qlgg9puq8qezyn3w&st=5g85r13s&dl=0 " group-title="RELIGION",Universal TV 
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gk8e6rua63b0xmytsjfel/Mana-TV.jpg?rlkey=bwceq0k24pmbngiy9r0zifgvy&st=5hxu3895&dl=0 " group-title="RELIGION",Mana TV 
+https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7r35pd2v8ij0w8iz9220f/Nuevo-Tiempo.jpg?rlkey=6iadmk36z37o1lwjhi25aoakk&st=61hlpinr&dl=0 " group-title="RELIGION",Nuevo Tiempo
+http://liketv.xyz:80/Nicoriojacom/232107891234/212545.ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bro5vz9v6zhb876qi3bik/Discovery-Kids.jpg?rlkey=ckoa0qy8iv9bx4mi9dvybaum2&st=52yimtsl&dl=0 " group-title="DISCOVERY",Kids
@@ -397,7 +401,7 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/8018.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3p5tck3lp3fepnh45hbhn/Animal-Planet.jpg?rlkey=2trhwv3fyg2ox9vxv8210zr51&st=nctywemg&dl=0 " group-title="DISCOVERY",Animal 
 http://liketv.xyz:80/Nicoriojacom/232107891234/7433.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/e7g1eatvkjgsfnevbk7r9/Discovery-Channel.jpg?rlkey=hrwo7m4qnu9al7aslj6r0sgqj&st=bdtlxtjd&dl=0 " group-title="DISCOVERY",Civilization
-http://liketv.xyz:80/Nicoriojacom/232107891234/7882.ts
+http://liketv.xyz:80/Nicoriojacom/232107891234/7449.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/id38e9wwdtgjxaoofm2hi/Discovery-Investigation.jpg?rlkey=2rm7s4cn3m6bps1s76fukk4pk&st=cmibni2u&dl=0 " group-title="DISCOVERY",Investigation
 http://liketv.xyz:80/Nicoriojacom/232107891234/126764.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wsvzg3x5vrcx85zco0qnm/Discovery-HGTV.jpg?rlkey=o4vmbjg0xh15xd2cgpgs4hy7h&st=v5i8aex8&dl=0 " group-title="DISCOVERY",HGTV
@@ -418,14 +422,14 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/7477.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pj54r3dknpx2r2804kmd9/Cine-Friki.jpg?rlkey=l0m0efan93mnqgvf96mb0ysso&st=ct38yr73&dl=0 " group-title="PLATEA VIP",Cine Friki
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=ec528dd9-92bb-49ec-9498-8ef2b8c55094&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wt9wwiuf7xozz7sqtaklr/Top-Cine.jpg?rlkey=a2e06o9aeks2m1fw4n5lbaneg&st=210m5rah&dl=0 " group-title="PLATEA VIP",Top Cine
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/15ctz47lw960qb2rf11dk/Cine-de-Accion.jpg?rlkey=et8ig5ue8gs3wzgdvj7pxx3z0&st=uxw7q9u2&dl=0 " group-title="PLATEA VIP",Cine Accion
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tjqfxr4dh19jj71eeq16m/AMC-Channel.jpg?rlkey=7g64iyfjys0c6gp1lgtpwpn6w&st=ll1mra8u&dl=0 " group-title="PLATEA VIP",AMC.Channel
-http://vegafibratv.com:8085/AMC/index.m3u8
+http://liketv.pro:80/Nicoriojacom/232107891234/126453.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zsf0orp71roe9mjx8wfkz/A-3-Cine.jpg?rlkey=xvim1marj1wiz1o20rrbkvux6&st=6y89tnt2&dl=0 " group-title="PLATEA VIP",A3Cine
 http://liketv.xyz:80/Nicoriojacom/232107891234/7415.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kukavd1fykl2i155d66gm/Netflix.jpg?rlkey=rljjfztslpwmtl3wdhrzd5ckb&st=imeof39f&dl=0 " group-title="PLATEA VIP",Netflix
-http://liketv.xyz:80/Nicoriojacom/232107891234/200493.ts
+http://liketv.xyz:80/Nicoriojacom/232107891234/325643.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uvfmvxe0gg9z13j5myvfo/Be-Mad.jpg?rlkey=cono5jte19fgrv66stm4u60oq&st=71dp02so&dl=0 " group-title="PLATEA VIP",Be Mad
 http://liketv.xyz:80/Nicoriojacom/232107891234/126835.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vigkeofkyfvz21tmmrpgq/Cine-Western.jpg?rlkey=udvunrwcbkko4zx5vvxs21kg6&st=wtwa0ovb&dl=0 " group-title="PLATEA VIP",Cine Western
@@ -434,8 +438,8 @@ https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2t573od5126s3mkz1pob5/Multipremier.jpg?rlkey=4c46exe6c1yt9hhjxwzopkwmp&st=dwr4tcc6&dl=0 " group-title="PLATEA VIP",MultiPremier
 http://liketv.xyz:80/Nicoriojacom/232107891234/17441.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kc2104w18yrdes148ed7h/Bom-Cine.jpg?rlkey=g8148fef3jqxt6ua9crbs6qwt&st=pffc7gqm&dl=0 " group-title="PLATEA VIP",Bom Cine 
-http://185.189.225.150:85/BOM/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cgdwjfjh8wv1bwif6zp4u/AXN-Movies.jpg?rlkey=r4qdk9pcno6gmzlvglngj7t0w&st=i9bylowh&dl=0 " group-title="PLATEA VIP",AXN Cine 
+http://jellyiptv.streamtv.to:8080/KaljaOS/8Emtqzv62k/1051
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7v043c3v09u3w9g4a2t2r/Cine-Latino.jpg?rlkey=60unwhi23ahrk6p9um2g4atig&st=yutejzj2&dl=0 " group-title="PLATEA VIP",Cine.Latino
 http://liketv.xyz:80/Nicoriojacom/232107891234/17450.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w8n5kq1w9527jaq90cq3k/Cine-Argentino.jpg?rlkey=0xzwj87wj8hpgxj7pnluvstnp&st=0sx6wfkt&dl=0 " group-title="PLATEA VIP",Cine Argentino
@@ -444,10 +448,10 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/126928.ts
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gstakbh76qauahbbbssz9/FreeTV-Live.jpg?rlkey=eumvuorap1qx11gdx7z3q76qi&st=kd2g8izu&dl=0 " group-title="PLATEA VIP",Cine Live
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d8lnf02dwnva5wd4by2gj/Cine-Real.jpg?rlkey=uvelridj3x3jke8brm097eir0&st=ym008zwq&dl=0 " group-title="PLATEA VIP",Cine Real
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4k4iiu6g7zazxz3tg83ms/Cine-Familiar.jpg?rlkey=cnqzdn5ohkjwitlt93y063qkp&st=od432vlx&dl=0 " group-title="PLATEA VIP",Cine Familiar
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i6htd0twgebi6rl6f8urm/Cine-Romance.jpg?rlkey=sx519b996ybii1sl0tp9dauqy&st=fp7r5o7u&dl=0 " group-title="PLATEA VIP",Cine Romance
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oryqrwp4u08ltv3agiytc/Cine-Espa-ol.jpg?rlkey=b1fni1h034tyya0okhou81tho&st=0d0ul7ci&dl=0 " group-title="PLATEA VIP",Cine Español
+http://jellyiptv.streamtv.to:8080/KaljaOS/8Emtqzv62k/1068
 #EXTINF:-1 tvg-logo="https:/dl.dropboxusercontent.com/scl/fi/o7zy2mua7csrvdahjcg6z/Cine-Sure-o.jpg?rlkey=408p0mdu643twbz0fht7s9kxb&st=w8whx6jj&dl=0 " group-title="PLATEA VIP",Cine Sureño
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qx2l6g7u9zlz38b81mf5a/Cine-Terror.jpg?rlkey=ihrt5joclejmgys8nwi3h447d&st=6bu8m8w1&dl=0 " group-title="PLATEA VIP",Cine Terror
@@ -457,11 +461,11 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/126456.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fq1p0yrnuc1iuk05u5yos/Cinemax.jpg?rlkey=anf5ud5vcqwvcg3sd4s592yjx&st=hymctd3q&dl=0 " group-title="PLATEA VIP",Cinemax
 http://liketv.xyz:80/Nicoriojacom/232107891234/17435.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a17ccqjh6db7vn8xjgq2a/Cosmopolitan.jpg?rlkey=ikj4harv1n8nvrwdpnluhxhpa&st=hv0pg03b&dl=0 " group-title="PLATEA VIP",Cosmopolitan
-http://liketv.xyz:80/Nicoriojacom/232107891234/126831.ts
+http://jellyiptv.streamtv.to:8080/KaljaOS/8Emtqzv62k/4412
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rqesxtx56nulzlaqmiy1j/MX-Family.jpg?rlkey=6hkcj4zezx3gd2iepn713wp81&st=4zndzyar&dl=0 " group-title="PLATEA VIP",MX Family
 http://liketv.xyz:80/Nicoriojacom/232107891234/7862.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bft9ion2t111gvstvsmid/De-Pelicula.jpg?rlkey=wi3fwu0u5v5u35l22bs71zvgq&st=7t9fjk6m&dl=0 " group-title="PLATEA VIP",De Pelicula
-https://cloudvideo.servers10.com:8081/8108/index.m3u8
+http://liketv.pro:80/Nicoriojacom/232107891234/126459.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bmc69iv6khtykdkxgcoa4/DHE-Channel.jpg?rlkey=o77fjmjayjpqkgve40mnspg52&st=6si5lzu5&dl=0 " group-title="PLATEA VIP",DHE.Channel 
 http://liketv.xyz:80/Nicoriojacom/232107891234/17622.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pgkyvnsfikyyv2ekutg9l/Grjngo.jpg?rlkey=ocye1yksusfmyxer4pztotz5u&st=yx64ixag&dl=0 " group-title="PLATEA VIP",Grjngo
@@ -487,13 +491,13 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xtaicl30jl9xrbmg9xp22/Neox.jpg?rlkey=nmhmwpkc7eyr2gr7ewb3b0o4e&st=1wcllig3&dl=0 " group-title="PLATEA VIP",Neox 
 http://liketv.xyz:80/Nicoriojacom/232107891234/7896.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/btg9keegrjvr7koalnj2j/Paramount.jpg?rlkey=er3ypncvrvw8nyi93csz82kgm&st=es5gthf9&dl=0 " group-title="PLATEA VIP",Paramount
-http://185.189.225.150:85/Paramount/index.m3u8
+http://liketv.xyz:80/Nicoriojacom/232107891234/7869.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jenlbuxt3fc0gfeffq1yo/Space.jpg?rlkey=tvzujovbdzoxllbsfo5v54l5h&st=4o2ooxfw&dl=0 " group-title="PLATEA VIP",Space.
 http://liketv.xyz:80/Nicoriojacom/232107891234/17487.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uyk0ub5h83c59mwjunkpc/Star-Channel.jpg?rlkey=bkb7m7hnfcop5pt7vdriebvzb&st=rb9s8s4o&dl=0 " group-title="PLATEA VIP",Star
 http://liketv.xyz:80/Nicoriojacom/232107891234/126487.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9x4tibbvarcgxpw5bg5nd/Cinerama.jpg?rlkey=se25xzne4uksbmovrxi21jr0y&st=lwksmqub&dl=0 " group-title="PLATEA VIP",Cinerama
-http://liketv.xyz:80/Nicoriojacom/232107891234/113371.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9yrt23f1htv422r0u7xbe/Dark-Channel.jpg?rlkey=ic6mwz9s1ame8mz34kdn5x9lf&st=04ehauyn&dl=0 " group-title="PLATEA VIP",Dark
+http://jellyiptv.streamtv.to:8080/KaljaOS/8Emtqzv62k/17624
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f6jqffi4zrt2ql4zec02m/TNT-Channel.jpg?rlkey=8i7qcav7ie9e1h6zyl16iczna&st=tqs4b4rq&dl=0 " group-title="PLATEA VIP",TNT 
 http://liketv.xyz:80/Nicoriojacom/232107891234/126523.ts
 
@@ -523,7 +527,7 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/17406.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cb0k2eisbz6mbx4n30ken/Universal-Cinema.jpg?rlkey=8fiheopi4qjbg49ap76yjf2ud&st=gkk186d7&dl=0 " group-title="UNIVERSAL",Cinema
 http://liketv.xyz:80/Nicoriojacom/232107891234/17627.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4vpmjsks1oq271vzl2phd/Universal-Comedy.jpg?rlkey=ucf9j7zi7xxn3240hn22vmjfb&st=z22qncbk&dl=0 " group-title="UNIVERSAL",Comedy
-http://liketv.xyz:80/Nicoriojacom/232107891234/212529.ts
+http://liketv.xyz:80/Nicoriojacom/232107891234/10.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qxlqyysu2ya1vmqew5da4/Universal-Crimenes.jpg?rlkey=zy91rngqvqa0bpekesfjtm6mq&st=cueq5aly&dl=0 " group-title="UNIVERSAL",Crimenes
 http://liketv.vip:80/Nicoriojacom/232107891234/126528.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/j5nrto4sxv3dxj7ixjld5/Universal-Premiere.jpg?rlkey=1jcs2ir07umxsz5crh3ld6nry&st=4zk4ysu6&dl=0 " group-title="UNIVERSAL",Premiere
