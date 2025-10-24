@@ -542,10 +542,10 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/7413.ts
 http://liketv.vip:80/Nicoriojacom/232107891234/7416.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i2zgf6dpit474fchs5cyx/Crimen-Real.jpg?rlkey=9smceax25blvqqzi5yyr1jtam&st=5pjlg5oe&dl=0 " group-title="SERIES",Crimenes Reales
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o2paqkw12e90fwedum9vf/AMC-Crimenes.jpg?rlkey=n21c7fftxchp1w6nmcqjfvoxh&st=virncuuu&dl=0 " group-title="SERIES",AMC Crimenes
-http://vegafibratv.com:8085/AMC/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2y3kq9c4q3b5pmkbrpb89/Melrose-Place.jpg?rlkey=r32qaqd5f89vw0pvlxofwxlfq&st=dcvfw8y8&dl=0 " group-title="SERIES",Melrose Place
-https://stitcher.pluto.tv/stitch/hls/channel/6245c03922d9d4000760d205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l1wt53jbv8ckandc8n985/Archivos-Forenses.jpg?rlkey=b45bzvx5nwwsmsthzyak3v35z&st=vuwvh1qb&dl=0 " group-title="SERIES",Archivos Forenses
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=ArchivosForenses&ads.csid=zeus_es_archivosforenses_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3901&ads.rakuten_streaming_id=474c129c-f25f-4882-868a-6ce0d764930f&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883012&ads.xumo_contentId=2648&ads.xumo_contentName=FilmRiseTrueCrimeMexico&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2648&ads.xumo_providerName=FilmRiseTrueCrimeMexico&ads.xumo_streamId=88883012
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qwknbx6b67l9qt0rpz8is/Teleseries.jpg?rlkey=sy3obfoztfabggstzlci312de&st=xnz4ugqd&dl=0 " group-title="SERIES",Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dm7pejgm2zhm34tdl365b/Mundo-Series.jpg?rlkey=gdemi3jj74czjgfs7ti5ayirf&st=2k1f64e0&dl=0 " group-title="SERIES",Mundo Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9djegabanxx8xzmbqkvw8/CSI-Miami.jpg?rlkey=0z8kf7dru4tn57gc4vaa2rvdb&st=km4rjyx7&dl=0 " group-title="SERIES",CSI Miami
@@ -554,12 +554,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://liketv.xyz:80/Nicoriojacom/232107891234/7897.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3nlam2tnbtnxhy7p7won8/Baywatch.jpg?rlkey=f3j5wyb0w9prz1vs7tb5nr1id&st=c7n216wf&dl=0 " group-title="SERIES",Baywatch
 http://liketv.vip:80/Nicoriojacom/232107891234/185039.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q0mqftig7u50bn0opepxd/Calle-13.jpg?rlkey=5z0aqq77myo5ss9jbgdqxv82j&st=6cr5licf&dl=0 " group-title="SERIES",Calle 13
-http://liketv.vip:80/Nicoriojacom/232107891234/126832.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t47tqt6n5whnpvu6bymxj/Todo-Crimen.jpg?rlkey=36qmdae2pwuuzw6p43k74r8in&st=h5i91kc1&dl=0 " group-title="SERIES",Todo Crimen
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=5dcd78f1-33cb-4447-bd3b-f39c57011312&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_streamId=88883018
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ga3qwhkwwpu7iy8ezbdee/Cops-Espa-ol.jpg?rlkey=y1qa8w4mhdrxwfygugt3l8mr4&st=ia0n66sd&dl=0 " group-title="SERIES",Cops
 https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zks9zm081qybxnewxdgon/Dr-Who.jpg?rlkey=s2wv8h8fahrvpjqduy88o7uqa&st=60cm72fg&dl=0 " group-title="SERIES",Dr Who 
-https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zrzkfb027fb25afgyrhat/BBC-Series.jpg?rlkey=s84e4bsol57bfiut155xeknb1&st=5exbcpm2&dl=0 " group-title="SERIES",BBC Series
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8?ads_amagi_channel=959&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=13&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3877&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=2a7de2ca-052b-4cd9-87d7-63b17d6d0fe7&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/9cyw4pi0gql9bwyed6fts/Mac-Giver.jpg?rlkey=n55zmzbl1dvq96pvsd18fixmw&st=divz8rjx&dl=0 " group-title="SERIES",Mac Giver 
 http://liketv.xyz:80/Nicoriojacom/232107891234/185044.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7wdz8s7kxu88k621nk719/AXN-Channel.jpg?rlkey=h1xz2ankobkgnmfb09gwezyf4&st=tw98b6wx&dl=0 " group-title="SERIES",AXN Channel
@@ -569,19 +569,19 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/17530.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k2f90ufxfykez35yylrku/Sony-Channel.jpg?rlkey=ntxs2ibijt20bdmcefg5zsj2q&st=xdn6ds7h&dl=0 " group-title="SERIES",Sony
 http://liketv.xyz:80/Nicoriojacom/232107891234/17644.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9ea6bru6c4jq6drb2ju8q/Warner-Channel.jpg?rlkey=75y7kj3dk95tqk0onigqxbvt4&st=hc9hm1yp&dl=0 " group-title="SERIES",Warner
-http://liketv.xyz:80/Nicoriojacom/232107891234/17540.ts
+http://liketv.xyz:80/Nicoriojacom/232107891234/17538.ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xszyrz9r4onq9kc6lag81/Canela-TV.jpg?rlkey=mfaf8eqlcil1joxlq1zsoptbh&st=6fdhc0s6&dl=0  " group-title="NOVELAS",Canela TV 
-http://liketv.xyz:80/Nicoriojacom/232107891234/155.ts
+https://cnn.hostlagarto.com/canelatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vcxqkcd95zsbtur00zv7c/Corazon-TV.jpg?rlkey=9ifu3i4wi1pslofnakp7y2n1f&st=zoc3zb1f&dl=0 " group-title="NOVELAS",Corazon TV 
 http://liketv.vip:80/Nicoriojacom/232107891234/7552.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t31lj2g7w1syz480fzsby/Ch-de-las-Estrellas.jpg?rlkey=6hqc1go4rnq99uzbz0yd9lamn&st=uxaimu2l&dl=0 " group-title="NOVELAS",Las Estrellas
 http://liketv.xyz:80/Nicoriojacom/232107891234/126936.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oom935l26umuuvr72zy59/Ciudad-Magazine.jpg?rlkey=np08r2of7sgixuyt3imye6u3r&st=roz4nble&dl=0 " group-title="NOVELAS",Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u70c64nn6tqbnveaxcl7r/Novelisima.jpg?rlkey=vp7mkvpq4hx85oznp468dh38c&st=tpjo9pef&dl=0 "group-title="NOVELAS",Novelisima
-https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8vg0z9ie08vpagjt1pimv/Sony-Novelas.jpg?rlkey=g1b666qo0iafcr5uwyvx0cuq5&st=o0bjqtrg&dl=0 "group-title="NOVELAS",Sony Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tsa719gpjr2apxf0auork/Pasiones.jpg?rlkey=c3w5f07mjzrbsckm8wisecbbv&st=ot7psvec&dl=0 " group-title="NOVELAS",Pasiones
 http://liketv.xyz:80/Nicoriojacom/232107891234/185085.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ylfbevjsstlxk0sfkgma7/RCN-Novelas.jpg?rlkey=muwqhjkj8wo3kvpf1340xpqq9&st=sgcz877l&dl=0 " group-title="NOVELAS",RCN Novelas 
@@ -592,10 +592,6 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/185075.ts
 http://liketv.xyz:80/Nicoriojacom/232107891234/126520.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7a30v2g8xlzu2yqnacv89/Rosa-de-Guadalupe.jpg?rlkey=zq3mbokno8tmva41y8whyldj6&st=7bvioaek&dl=0 " group-title="NOVELAS",Rosa de Guadalupe
 http://liketv.vip:80/Nicoriojacom/232107891234/185023.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2ju8uzc5q678zujuxqn9t/Divinity.jpg?rlkey=tuvrn9y4s8n3gyul7q7jsxq14&st=f5gosr9z&dl=0 " group-title="NOVELAS",Divinity
-http://liketv.vip:80/Nicoriojacom/232107891234/7886.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/38u8ucjja6ru9pu8182fd/Factoria-de-Ficcion.jpg?rlkey=bbbys7yznoc5horp9alecnkqa&st=m075mzud&dl=0 " group-title="NOVELAS",Factoria de Ficcion
-http://185.189.225.150:85/fdf/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/87qs6qiyp8bkv00yhr058/Kanal-D.jpg?rlkey=wjr0js8ueyaw0no3k2gkxbqt4&st=xb76mp99&dl=0 " group-title="NOVELAS",Kanal D
 http://liketv.xyz:80/Nicoriojacom/232107891234/126478.ts
 
