@@ -603,31 +603,33 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/211572.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p5qm35y2fj9jkxkhvi9x3/Ch-de-la-Musica.jpg?rlkey=b2y8dbt23xdlddwq70g8rpgpz&st=uwvr532s&dl=0 " group-title="Musica",CH de la Musica 
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nmme2nmdgsue90f45dann/Mundo-de-la-Musica.jpg?rlkey=61fky1ntmiqfzfja6xdi7lm1i&st=62gr7hbz&dl=0 " group-title="Musica",Mundo Musica
-https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/y21bstcb240oq4fcbi4q0/MTV-Hits.jpg?rlkey=sw85rlv2hz88byjpteh8r2lln&st=vwgjofch&dl=0 " group-title="Musica",MTV Hits
 http://liketv.xyz:80/Nicoriojacom/232107891234/207794.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/73q6n61q0m13t69in98tm/Quiero-Musica-Tv.jpg?rlkey=8k4e85duywenjdi0p9tioxl7o&st=4ncmjset&dl=0 " group-title="Musica",Quiero Musica
 http://liketv.xyz:80/Nicoriojacom/232107891234/187949.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/po7zdfvr0a79m6gpaipgv/MTV-80s.jpg?rlkey=ldqitef2s5roarzkiah1s7gp8&st=ckqm2109&dl=0 " group-title="Musica",MTV '80s
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/51byysgffnyie4cv75ezf/Now-70s.jpg?rlkey=sgn39qeaz4mhlixuy2uffdey6&st=jjce3hn7&dl=0 " group-title="Musica",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zmlhfciwmz2batpttk45m/Now-80s.jpg?rlkey=aaqulgcqu5f38fh2b1nw75hhn&st=opw98b3s&dl=0 " group-title="Musica",Now '80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/94fj2ucx1ptrfyhrinko0/Music-Top.jpg?rlkey=lqf6mchjlgjbjkif15w2imu3x&st=othhly43&dl=0 " group-title="Musica",Music Top
-http://liketv.xyz:80/Nicoriojacom/232107891234/187950.ts
+http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7vr1odq508fu7mishp7sq/Mi-Musica-Regional.jpg?rlkey=1wu37ewyow8ek02waajpl3ovx&st=djc19u5q&dl=0 " group-title="Musica",Regional
 http://liketv.xyz:80/Nicoriojacom/232107891234/212535.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vn0htnh5slry9l6wy8x5q/Mi-Musica-Salsa.jpg?rlkey=qvn3ace4qwps1vdllvtppc7yd&st=zsigg536&dl=0 " group-title="Musica",Salsa
 http://liketv.xyz:80/Nicoriojacom/232107891234/212537.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kwnl6tgkc1xf3z8t789rr/Mi-Musica-Reggaeton.jpg?rlkey=uyz2g3kaz41oe2kept6v1dl09&st=l3h8loxg&dl=0 " group-title="Musica",Reggaeton
 http://liketv.xyz:80/Nicoriojacom/232107891234/212534.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jh9rvc53qnpkvw5q3hplb/Nick-Music.jpg?rlkey=hrkrmqejp9q7o5tq16idbbhpj&st=b2vv9wjj&dl=0 " group-title="Musica",Nick Music
-http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ya3ljkxk8za7k42e72z78/Frecuencia-Musical.jpg?rlkey=sqoa9lgapfokvb6oyhpudcrje&st=vi9joogp&dl=0 " group-title="Musica",Infinita
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/no4yo14xxfyv9cy1b7c90/Retro-Channel.jpg?rlkey=gtwpl3wm8hwokibxgwqsa69gu&st=z92kdsef&dl=0 " group-title="Musica",Retro
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/39t9f9k4n0n8hwty1vu3n/Telehit-Musica.jpg?rlkey=8ldwl2868c4go651fxddl5p4v&st=gtz9kq87&dl=0 " group-title="Musica",Telehit
 http://liketv.xyz:80/Nicoriojacom/232107891234/211578.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/la5ro0kqh2u5gas2kskpx/Teleritmo.jpg?rlkey=0nfvz70f916ow3unkt2fvi4y8&st=1m9w6q53&dl=0 " group-title="Musica",Teleritmo 
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qnped5gbz8s9w3z8hthtg/Cumbia-TV.jpg?rlkey=eqf93j0bnf3a4elyqzhft73ib&st=7plgbk53&dl=0 " group-title="Musica",Cumbia
-http://68.235.37.11:1935/vallenato/vallenato/.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2t8uqzbzx0yrano12ska1/Capricho-TV.jpg?rlkey=9bkxwm5azamm00lwzvi8xtvb5&st=7n3zdwgq&dl=0 " group-title="Musica",Capricho TV
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cm76nb8wdsepug1azp78b/Cadena-Elite.jpg?rlkey=8iiton6vteqizvdbr4c3yu7pk&st=uwmsl6zz&dl=0 " group-title="Musica",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uuo6xtjtqjsgk2jixnadq/VClassic-Music.jpg?rlkey=4pledvwvq0xsgi86in3uwb505&st=3uefx9ol&dl=0 " group-title="Musica",VClassic
