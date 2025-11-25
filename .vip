@@ -25,15 +25,15 @@ https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/1477
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s4iwylnnz5nm467obdsjw/Net-TV.jpg?rlkey=xp0pnarjtkywsa5xrcssa6i31&st=7211mwve&dl=0 " group-title="NACIONALES",Net TV.
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6nxk8fo1ctka6kj1sw82f/Bravo-TV.jpg?rlkey=teb35t0v44tvfh6p2v097qyzk&st=azey48rm&dl=0 " group-title="NACIONALES",Bravo TV
-http://liketv.pro:80/Nicoriojacom/232107891234/16484.ts
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d9qn60inp0d4oqi8gxcud/Canal-de-la-Ciudad.jpg?rlkey=r2nxapjmbivxsixfs2xggvzt2&st=c8ab6gqb&dl=0 " group-title="NACIONALES",Ch de la Ciudad
-http://liketv.xyz:80/Nicoriojacom/232107891234/15895.ts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764132799/ei/XzMmaYXdBvyynOAPhr7e8AY/ip/181.93.127.138/id/VHCnqfdX-t0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RK79KyRMS-lcx2_sLK9K6lupN2bCzEn4phufLCmAUZd99Dk4gabYSf5p9HnDggwrhnm-nU85Nx/spc/6b0G_Dvir_HkK4WLFTs4kcuwOVrFnMdKs5ao2HzvGGml2sscridDWq63m61PEc_H7Qg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLMHS0My9TFOZa6q5WlJ8P_b5oDrt0en0xqS0MAIAjXMCIQCgn5djhwNbuq0wOz4A_B29ghMnw5U8wBip9lSFug5aTg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2ahjcue6ego3ewgkef4pw/IP-Noticias.jpg?rlkey=2k5nhspsfxjjqef2yogap9b1l&st=bhp70ppm&dl=0 " group-title="NACIONALES",IP Noticias
-http://liketv.xyz:80/Nicoriojacom/232107891234/246843.ts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764133033/ei/STQmabWnFreY4dUPpMqbWQ/ip/181.93.127.138/id/ECFbTfcv_yE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5SLpGfaoM34v_SOFwvVe2TzYzry4gL2pHhlIz2w7Kqtjhnyqjf6Z6H-cT50lq_iLlC2JESgJdCg/spc/6b0G_AwVnLzyViojjUi2bQM4gF-D36FHsXWQvVqe_RdnAFgPzg6ElIE_ey2UPrPkJ2Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANYlvCxYL9ckGd0XUi6G17rfldg_Xy2DYkV4Fpfq6s-tAiEAossIMEmoDi3VXWmz3fQiSg1cSX9_fozdpMeK5IO7NQs%3D/file/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k9fatpvsuk1ohie59jipl/Ch-5-del-Pueblo.jpg?rlkey=wqs50b4qdadk035fs3epfpkll&st=yyyprbqq&dl=0 " group-title="INTERIOR",Ch 5 del Pueblo
-http://liketv.xyz:80/Nicoriojacom/232107891234/8457.ts
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9nbsw1mdkl9mlac4ed5wc/Canal-8-Rosario.jpg?rlkey=f6ihzuh9eksa543uhq9lro0m1&st=ldixtifw&dl=0 " group-title="INTERIOR",Ch 8 Rosario
 https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vocws8hn85wzzlo3f0p77/Ch-Platea-Vip.jpg?rlkey=y2qi2cfup7p0jxu153luqjq4c&st=0154ebcl&dl=0 " group-title="INTERIOR",Ch 11 Platea Vip
