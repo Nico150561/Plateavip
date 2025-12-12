@@ -26,10 +26,12 @@ https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/1477
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6nxk8fo1ctka6kj1sw82f/Bravo-TV.jpg?rlkey=teb35t0v44tvfh6p2v097qyzk&st=azey48rm&dl=0 " group-title="NACIONALES",Bravo TV
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d9qn60inp0d4oqi8gxcud/Canal-de-la-Ciudad.jpg?rlkey=r2nxapjmbivxsixfs2xggvzt2&st=c8ab6gqb&dl=0 " group-title="NACIONALES",Ch de la Ciudad
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764693278/ei/vsAuaYyABun01sQP7MT2iAk/ip/190.31.83.221/id/VHCnqfdX-t0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Q3NP1XOyBudV1cMhJ3042THRZQLukKVRJwA1GxtpeEpaJopgxEnDto9_4lnE91bsAweEMKYTgd/spc/6b0G_AdUCN8ZQVq-ytzI1fjXq5-Gz7TmIyFjLwoRnTnsfwq_Rk1P5v_YnW0YGHBq3ZA/vprv/1/go/1/ns/EW66G3oqY6_Xr8HZD8uZ1CAQ/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/ys2wB1mZltYchX99/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZ_m1DQ5ZV-GHlDm9YEwbkT55nTVkWZCyRB3OS6S7PU4CIQCNyASFNKJdark0a188XLmLgO12y0IXONscrfxJhwAUBA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2ahjcue6ego3ewgkef4pw/IP-Noticias.jpg?rlkey=2k5nhspsfxjjqef2yogap9b1l&st=bhp70ppm&dl=0 " group-title="NACIONALES",IP Noticias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764693566/ei/3sEuadaAFaTH4dUPo56diAs/ip/190.31.83.221/id/ECFbTfcv_yE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5R2lgjREviJcLQ0p7zLW2kUqxiAnHsghp-p4ZzilNC6DVMC9Pc66b2fZHv3nowTkMZZHUXE2ciy/spc/6b0G_F_7V3iqTDL7g-kp0BcizXiP3W9KdnXp_nsF_P8na2wnDxy1DYxarCxzoOKJcMQ/vprv/1/go/1/ns/oE3E0C0hbxOiDZxdYEeFAGUQ/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/1yU-GF1o4uDC2PgV/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM-O_Kh9cyUwomM0GVvLM3n-8HgBmS8CzuMVYL8yrgdUAiB4Thx-YhbRa2oT2mTGW_xRtnvy8RtjJP9hPNVYCXQIJg%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d9qn60inp0d4oqi8gxcud/Canal-de-la-Ciudad.jpg?rlkey=r2nxapjmbivxsixfs2xggvzt2&st=d3u93jbp&dl=0 " group-title="NACIONALES",Ch de la Ciudad
+http://liketv.pro:80/nicolasquintero/nicolas486/15895.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kc984j2qbd1ffuzrtd72e/Argentina-12.jpg?rlkey=cga7nsxjbomgszybddg6s7x53&st=6awkkk32&dl=0 " group-title="NACIONALES",Argentina 12
+http://liketv.pro:80/nicolasquintero/nicolas486/246843.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r8j5vyiu7oknorzwqmgwn/Metro-TV.jpg?rlkey=hjst6n11kj14si2uwinp7q3l2&st=k04rodmw&dl=0 " group-title="NACIONALES",Metro
+http://liketv.pro:80/nicolasquintero/nicolas486/16487.ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k9fatpvsuk1ohie59jipl/Ch-5-del-Pueblo.jpg?rlkey=wqs50b4qdadk035fs3epfpkll&st=yyyprbqq&dl=0 " group-title="INTERIOR",Ch 5 del Pueblo
@@ -110,6 +112,22 @@ https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fcgu6sm9iku6qzjni6nxh/TV-Mexico.jpg?rlkey=htboro5o67eb4ymojbdpce9fm&st=5ju7a181&dl=0 " group-title="EXTRANJEROS",Mexico
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/clj7m17kpcu1bx5d28mno/Costa-Rica-TV.jpg?rlkey=b4r8i63h6uh1fb0zn2x7n0baz&st=dlxeiv0y&dl=0 " group-title="EXTRANJEROS",Costa Rica
+http://liketv.pro:80/nicolasquintero/nicolas486/222007.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/urbdbo6nno55sjc3c3jpb/El-Salvador.jpg?rlkey=tdjamhuny3zf0f2kn1vnnuted&st=g8io6ug3&dl=0 " group-title="EXTRANJEROS",El Salvador
+http://liketv.pro:80/nicolasquintero/nicolas486/214913.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tge51kgrz0h38xkm82mkk/Guatemala.jpg?rlkey=mtp7tn6g0m9es0hec5vtkvxbq&st=xif3fv37&dl=0 " group-title="EXTRANJEROS",Guatemala
+http://liketv.pro:80/nicolasquintero/nicolas486/223089.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iyx8kz4bb87qnzfulgvnk/Honduras.jpg?rlkey=8fvnnsg964gydagmujyure43f&st=nzbuf4n3&dl=0 " group-title="EXTRANJEROS",Honduras
+http://liketv.pro:80/nicolasquintero/nicolas486/248647.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/366z1qh4ki3ntwi6bf9ke/Nicaragua-TV.jpg?rlkey=ptkt4h2kff93fhfmulup2qbp6&st=7110pue4&dl=0 " group-title="EXTRANJEROS",Nicaragua
+http://liketv.pro:80/nicolasquintero/nicolas486/244409.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7iwdyjandbt7n25dgjx80/Panama-TV.jpg?rlkey=92iyu2nfbbc4mwwwja6ox89jx&st=6hwp68rs&dl=0 " group-title="EXTRANJEROS",Panama
+http://liketv.pro:80/nicolasquintero/nicolas486/325401.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gtf5gdf3q8l8o22g8x66d/Puerto-Rico-TV.jpg?rlkey=uss0c27vjtnqtsymvpgqvcva0&st=9wpv2gr4&dl=0 " group-title="EXTRANJEROS",Puerto Rico
+http://liketv.pro:80/nicolasquintero/nicolas486/219642.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z43vbrnskry312rhy8jjg/Rep-Dom-TV.jpg?rlkey=y2ba9dc5qdm4v6js2w7u928pc&st=blncbmin&dl=0 " group-title="EXTRANJEROS",Rep Dom
+http://liketv.pro:80/nicolasquintero/nicolas486/210817.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u03ybitehuimzfqvyevc0/TVE-Espa-a.jpg?rlkey=v1ne4vntnek8q7o6mdt4yo5o8&st=v24m5sb3&dl=0 " group-title="EXTRANJEROS",España
 https://ztnr.rtve.es/ztnr/6688753.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7q9sf2crn2iywc2i2c39k/TV-Italia.jpg?rlkey=90yz8wsdb3yhn1o5zwep8b7zd&st=kcfih9pb&dl=0 " group-title="EXTRANJEROS",Italia
