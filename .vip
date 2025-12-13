@@ -342,30 +342,54 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yiimlgfc6mxx6tedr1exj/Estrella-TV.jpg?rlkey=1z0le392tr4preffomdn0l7vo&st=pesdi1a1&dl=0 " group-title="ENTRETENCION",Estrella TV
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/123025
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4zjtv6b1zomw68a4gbbst/Cantinflas.jpg?rlkey=nh9no9p1oqntzb8k2lltgvjdf&st=aw351lt4&dl=0 " group-title="ENTRETENCION",Cantinflas
+http://liketv.pro:80/nicolasquintero/nicolas486/185014.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d9dc9tmk8xs0uk7m2vv1v/Comedy-Central.jpg?rlkey=y6gs1res3dlwzl817onfbonjn&st=u058ay5m&dl=0 " group-title="ENTRETENCION",Comedy Central
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/268318
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7k1cr6lb83qdg9leuutj4/Distrito-Comedia.jpg?rlkey=7yh9y1yvbpwk2tf0mtr225xee&st=gn0hvf38&dl=0 " group-title="ENTRETENCION",Distrito Com.
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189668
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zzg8t4dt5pdqjl8fpp1xk/Como-dice-el-dicho.jpg?rlkey=6wv673h6af1x1iogtiy1uhdct&st=9twdq4bv&dl=0 " group-title="ENTRETENCION",Como dice el dicho
+http://liketv.pro:80/nicolasquintero/nicolas486/184649.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/38u8ucjja6ru9pu8182fd/Factoria-de-Ficcion.jpg?rlkey=bbbys7yznoc5horp9alecnkqa&st=nxby9lbb&dl=0 " group-title="ENTRETENCION",Factoria de Ficcion
+http://liketv.pro:80/nicolasquintero/nicolas486/472797.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bq4k1mpwzagx3o822o37q/Ch-13-Realities.jpg?rlkey=2roh9aa6lwk3gmh3583wvjht3&st=vs9dpk8p&dl=0 " group-title="ENTRETENCION",Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/aydpak1q1matocnzsvg1f/Vix-Jajaja.jpg?rlkey=a5mddq93tlsz3hroj2ortait0&st=grtjttko&dl=0 " group-title="ENTRETENCION",Vix jajaja
+http://liketv.pro:80/nicolasquintero/nicolas486/184111.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/megcyxrz0msk0mfg0t290/Canal-Volver.jpg?rlkey=uzyu191pv0ypnw3l4l8xfn7gq&st=oi5dee1o&dl=0 " group-title="ENTRETENCION",Volver 
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189424
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6fno9r4rxfpum2tabaj3r/Caza-y-Pesca.jpg?rlkey=vhdpjuc9hvp7leom6jfm156ib&st=3zcj8q75&dl=0 " group-title="CULTURA",Caza y Pesca
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189761
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2ycdjsvcrjfn3jtx3o9gw/FMH-Atlas.jpg?rlkey=h2cm78ex66zu5zeddb0wa0xk4&st=n5w5v9uh&dl=0 " group-title="CULTURA",FMH Atlas
+http://liketv.pro:80/nicolasquintero/nicolas486/185.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4s2ude3pdcth7wfe7elrg/Ciudades-del-Ocio.jpg?rlkey=rx9x9vsxesq11vxonao2wbxyu&st=fgdf4362&dl=0 " group-title="CULTURA",Ciudad del Ocio
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p6ipz3tk8zdo6y9qb0f1x/Sun-Channel.jpg?rlkey=ayq7pdhaejlkstp51yele042p&st=phehvanm&dl=0 " group-title="CULTURA",Sun Channel
+http://liketv.pro:80/nicolasquintero/nicolas486/126933.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rcc1b3b2tjw6qz75nxp2i/AMC-Break.jpg?rlkey=2mf2p1l0aiwr2yn9awrjufud3&st=f2gsa231&dl=0 " group-title="CULTURA",AMC Break
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/141221
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hym0u4ihg00bz5ubx2eoa/DMax.jpg?rlkey=y2vey4ng6b9vxsmnsp7cvkuoe&st=8sgupa5a&dl=0 " group-title="CULTURA",DMax
+http://liketv.pro:80/nicolasquintero/nicolas486/472793.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xxxys6q8vw2aivt00m00t/Film-Arts.jpg?rlkey=u65yfbibu49zgiq8ypca39rgc&st=0579lbex&dl=0 " group-title="CULTURA",Film & Arts.
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/270498
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cbashuyzzw8nsv3rdn6pe/Encuentro-TV.jpg?rlkey=k7aj8ov3ynjg5jbqmmm69viv5&st=fiysozd4&dl=0 " group-title="CULTURA",Encuentro
+http://liketv.pro:80/nicolasquintero/nicolas486/8559.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2iodov4ptpx30exy78djh/Chacra-TV.jpg?rlkey=y82mf9f9n4x6aym4pnjm0kyu7&st=r2q9lwvs&dl=0 " group-title="CULTURA",Chacra TV
+http://liketv.pro:80/nicolasquintero/nicolas486/7805.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8h8tkz1crckfehungulni/Historia-TV.jpg?rlkey=cyfe968vy4qlemsrzoaalq8j1&st=a333ly4d&dl=0 " group-title="CULTURA",Historia TV
+http://liketv.pro:80/nicolasquintero/nicolas486/184106.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9amrkxn8r57ypwvlevnv0/History-Channel.jpg?rlkey=eemawz9g08feic1p0lyhmy371&st=iqezu8p5&dl=0 " group-title="CULTURA",History 1
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/139532
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s3whdpjea9szjdls5ekee/History-Channel-2.jpg?rlkey=wzswmypjqiummbw5btygxl7c4&st=asc8amo4&dl=0 " group-title="CULTURA",History.2 
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/123014
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s1fqglhdr4x3fkn90yniz/Odisea-TV.jpg?rlkey=47dba8c30d2v90o9fndhe2ut3&st=8q7jtkam&dl=0 " group-title="CULTURA",Odisea TV
+http://liketv.pro:80/nicolasquintero/nicolas486/126863.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/e1m493zin8s8j3iq64x1r/Nat-Geo.jpg?rlkey=j3x3fr86bj42oujtg88pluc88&st=lm5jrh9o&dl=0 " group-title="CULTURA",Nat Geo
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/139557
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/twtwcpvo2j1bbrfabegly/Love-Nature.jpg?rlkey=jpvjgouabr0c8qoj3dln6r2a4&st=smidjshq&dl=0 " group-title="CULTURA",Love Nature
+http://liketv.pro:80/nicolasquintero/nicolas486/125381.ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0a3jh3xvdq866jyxtbfkk/Radio-Maria.jpg?rlkey=och8p6z68l3cne94xmhahle0f&st=2okegku1&dl=0 " group-title="RELIGION",Radio Maria
@@ -564,6 +588,10 @@ https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/141187
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=5dcd78f1-33cb-4447-bd3b-f39c57011312&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_streamId=88883018
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ga3qwhkwwpu7iy8ezbdee/Cops-Espa-ol.jpg?rlkey=y1qa8w4mhdrxwfygugt3l8mr4&st=ia0n66sd&dl=0 " group-title="SERIES",Cops
 https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3nlam2tnbtnxhy7p7won8/Baywatch.jpg?rlkey=f3j5wyb0w9prz1vs7tb5nr1id&st=1w09mutk&dl=0 " group-title="SERIES",Baywatch
+http://liketv.pro:80/nicolasquintero/nicolas486/185039.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2ju8uzc5q678zujuxqn9t/Divinity.jpg?rlkey=tuvrn9y4s8n3gyul7q7jsxq14&st=qyo35qm5&dl=0 " group-title="SERIES",Divinity
+http://liketv.pro:80/nicolasquintero/nicolas486/472825.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zrzkfb027fb25afgyrhat/BBC-Series.jpg?rlkey=s84e4bsol57bfiut155xeknb1&st=5exbcpm2&dl=0 " group-title="SERIES",BBC Series
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8?ads_amagi_channel=959&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=13&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3877&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=2a7de2ca-052b-4cd9-87d7-63b17d6d0fe7&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7wdz8s7kxu88k621nk719/AXN-Channel.jpg?rlkey=h1xz2ankobkgnmfb09gwezyf4&st=tw98b6wx&dl=0 " group-title="SERIES",AXN Channel
