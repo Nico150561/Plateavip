@@ -119,7 +119,7 @@ http://liketv.pro:80/nicolasquintero/nicolas486/214913.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tge51kgrz0h38xkm82mkk/Guatemala.jpg?rlkey=mtp7tn6g0m9es0hec5vtkvxbq&st=xif3fv37&dl=0 " group-title="EXTRANJEROS",Guatemala
 http://liketv.pro:80/nicolasquintero/nicolas486/223089.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iyx8kz4bb87qnzfulgvnk/Honduras.jpg?rlkey=8fvnnsg964gydagmujyure43f&st=nzbuf4n3&dl=0 " group-title="EXTRANJEROS",Honduras
-http://liketv.pro:80/nicolasquintero/nicolas486/248647.ts
+http://liketv.pro:80/nicolasquintero/nicolas486/7512.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/366z1qh4ki3ntwi6bf9ke/Nicaragua-TV.jpg?rlkey=ptkt4h2kff93fhfmulup2qbp6&st=7110pue4&dl=0 " group-title="EXTRANJEROS",Nicaragua
 http://liketv.pro:80/nicolasquintero/nicolas486/244409.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7iwdyjandbt7n25dgjx80/Panama-TV.jpg?rlkey=92iyu2nfbbc4mwwwja6ox89jx&st=6hwp68rs&dl=0 " group-title="EXTRANJEROS",Panama
@@ -162,28 +162,40 @@ https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/1496
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/1505
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1497284vktjxn98t9glfq/Estrella-News.jpg?rlkey=u7wcuksnqrd2izwo6a42cjjoh&st=ko9jwa0y&dl=0 " group-title="NOTICIAS",Estrella News
 https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1vwqm1lquwsr6y7fk1cb6/Eurochannel.jpg?rlkey=mmbrkkxt4qc1gb74frfri501u&st=24feqgc6&dl=0 " group-title="NOTICIAS",Eurochannel
+http://liketv.pro:80/nicolasquintero/nicolas486/17612.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/34a5ek0u2vu37l6xuz8uz/Cable-Noticias.jpg?rlkey=2mjaafe41pucijyvb52gl0aap&st=ofs3vxoc&dl=0 " group-title="NOTICIAS",Cable Noticias
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189469
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3r38oq9nmezes3hb40j2t/Galavision.jpg?rlkey=4apgzt3gst03krumqhpt8paez&st=s78l9wb2&dl=0 " group-title="NOTICIAS",Galavision
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/269724
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/toweut8rwlwamy4vn7v02/Univision.jpg?rlkey=8q2dykb83gezuqoss3j8h2rhd&st=0fanyer9&dl=0 " group-title="NOTICIAS",Univision
+http://liketv.pro:80/nicolasquintero/nicolas486/184116.ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1igv76p3zi7h5ezlykepj/Bein-Sports.jpg?rlkey=b899rqo5phmawm47e6vtb9da2&st=1sotwrej&dl=0 " group-title="DEPORTES",Bein.Sports
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/131643
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/x72yv2z2ujzxiwinf7mwv/Dazn-Sports.jpg?rlkey=wra019pl7n2vnnz3ftvnqit19&st=qr58sa3k&dl=0 " group-title="DEPORTES",Dazn Sports
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/143806
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/99azy3425z2f3wv9na2hz/Teledeporte.jpg?rlkey=404mlkuuuitet1a5ueviidr91&st=s46bq4u4&dl=0 " group-title="DEPORTES",Teledeporte
+http://liketv.pro:80/nicolasquintero/nicolas486/472834.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/egsom30yyoyy1az4ismcr/Eurosport.jpg?rlkey=i6urfvxqel4mo49rm9b7bd7nr&st=7milrivv&dl=0 " group-title="DEPORTES",Eurosport
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189828
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cv1d72x7e8rnrlhz2czd7/Sky-Sports.jpg?rlkey=btyn5bkchnw9lf7o5t911mn1j&st=w5cj1pda&dl=0 " group-title="DEPORTES",Sky Sports
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/563
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/41ihtptw526egxqmk8bm8/Tigo-Sports.jpg?rlkey=4ym7ygcti2zjjw7aq0zkx4zhx&st=n4g4l1vd&dl=0 " group-title="DEPORTES",Tigo Sports
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/104376
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rwyw3iutmu7tevb5z1zjj/CDO-Premium.jpg?rlkey=i1w46210p07snkgh4954lhoog&st=0strbwra&dl=0 " group-title="DEPORTES",CDO Premium
+http://liketv.pro:80/nicolasquintero/nicolas486/276.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4l7w33iizt46xzw45u00t/Tudn-Sports.jpg?rlkey=fime3jgznj0tvmbcdbah3ieh4&st=t1ix9b40&dl=0 " group-title="DEPORTES",Tudn.Sports
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189734
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/x2tb6smtrb9ygnm25exun/Win-Sports.jpg?rlkey=bbvo47rhkf8qx7d21vioe7dr4&st=46med6g0&dl=0 " group-title="DEPORTES",Win.Sports
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/129
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wpqg73nzqtxhg2t42t3z5/Zapping-Sports.jpg?rlkey=g8flq1uxezdro5s324kzhonse&st=nd3w9kah&dl=0 " group-title="DEPORTES",Zapping Sports
+http://liketv.pro:80/nicolasquintero/nicolas486/8668.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fjq0xxtg78inntyyf39nk/DeporTV.jpg?rlkey=ahrlhad9hg3wd6vla9iejtohu&st=06uwmvmz&dl=0 " group-title="DEPORTES",DeporTV
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gfo1btcmbh4e3my7dkoc5/America-Sports.jpg?rlkey=6y5jw823kxhcoqjzja1a2weth&st=tfq10nuc&dl=0 " group-title="DEPORTES",America Sports
+http://liketv.pro:80/nicolasquintero/nicolas486/212981.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/13xrolsy46f4t9d806ojc/ESPN.jpg?rlkey=f30etadwtvrnhe0pgrrgp27v9&st=j2xu86hx&dl=0 " group-title="DEPORTES",ESPN 
 http://liketv.pro:80/nicolasquintero/nicolas486/16982.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w2i4j0j0dnd8hljt04zys/ESPN-2.jpg?rlkey=dbnca7pkcof0jk28o3ew1uono&st=anu88tqn&dl=0 " group-title="DEPORTES",ESPN.2
@@ -204,7 +216,7 @@ https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189175
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/138834
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ovbkr88ztx0ktlnc8sbqj/Fox-Sports-3.jpg?rlkey=oul96rkiegoynefzv69189ul0&st=o1rhu5cu&dl=0 " group-title="DEPORTES",Fox.Sports 3
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189452
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iukzb4b3hec302d6gn7rq/TyC-Sports.jpg?rlkey=swoktxcfyrxxww200u5tm7dz5&st=o1kk4fjt&dl=0 " group-title="DEPORTES",TyC Sports 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iukzb4b3hec302d6gn7rq/TyC-Sports.jpg?rlkey=swoktxcfyrxxww200u5tm7dz5&st=ypc1jisx&dl=0 " group-title="DEPORTES",TyC Sports 
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189455
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ksjy0geoycj71f4uxeann/ESPN-Premium.jpg?rlkey=8lbufo3fhsietqk0mzh9e235u&st=m6bibzdu&dl=0 " group-title="DEPORTES",ESPN + 1
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/136335
