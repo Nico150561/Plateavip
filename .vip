@@ -32,6 +32,10 @@ http://liketv.pro:80/nicolasquintero/nicolas486/15895.ts
 http://liketv.pro:80/nicolasquintero/nicolas486/246843.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r8j5vyiu7oknorzwqmgwn/Metro-TV.jpg?rlkey=hjst6n11kj14si2uwinp7q3l2&st=k04rodmw&dl=0 " group-title="NACIONALES",Metro
 http://liketv.pro:80/nicolasquintero/nicolas486/16487.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uvxy3sho2ayryzxxg7ovn/Bayres-TV.jpg?rlkey=cerwtpppdw4ccn2ue148d1qf5&st=6voapvtw&dl=0 " group-title="NACIONALES",Bayres TV
+https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w1639900869.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6jujp18bn0nmcdsba18xt/Multivision.jpg?rlkey=4lr85y6fl817oycbmlvckh5km&st=kjy48sbt&dl=0 " group-title="NACIONALES",Multivision
+https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/259851
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k9fatpvsuk1ohie59jipl/Ch-5-del-Pueblo.jpg?rlkey=wqs50b4qdadk035fs3epfpkll&st=yyyprbqq&dl=0 " group-title="INTERIOR",Ch 5 del Pueblo
@@ -110,8 +114,12 @@ https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189464
 https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7xz76ggx9phovt4xtujh6/TV-Venezuela.jpg?rlkey=iys333f3lwb0deljc4pg0cmfb&st=mos37fao&dl=0 " group-title="EXTRANJEROS",Venezuela
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rwse2g1jb2zie4ggrhk7k/Cuba-TV.jpg?rlkey=8glkjyt56un31zt2a63phtqwj&st=r3ttzt1t&dl=0 " group-title="EXTRANJEROS",Cuba
+https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/108251
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fcgu6sm9iku6qzjni6nxh/TV-Mexico.jpg?rlkey=htboro5o67eb4ymojbdpce9fm&st=5ju7a181&dl=0 " group-title="EXTRANJEROS",Mexico
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/37n8xfu09zf6208zgiklm/USA-TV.jpg?rlkey=7qr8a1c00ck7ouu8ofd7lhun6&st=sb2w0etu&dl=0 " group-title="EXTRANJEROS",EE UU
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0034
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/clj7m17kpcu1bx5d28mno/Costa-Rica-TV.jpg?rlkey=b4r8i63h6uh1fb0zn2x7n0baz&st=dlxeiv0y&dl=0 " group-title="EXTRANJEROS",Costa Rica
 http://liketv.pro:80/nicolasquintero/nicolas486/222007.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/urbdbo6nno55sjc3c3jpb/El-Salvador.jpg?rlkey=tdjamhuny3zf0f2kn1vnnuted&st=g8io6ug3&dl=0 " group-title="EXTRANJEROS",El Salvador
@@ -146,30 +154,34 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/v1b4sgkyzsaqc2g72fux9/Telemundo.jpg?rlkey=mbpncz4rerqxm5gsbkttiymde&st=5beshx4t&dl=0 " group-title="NOTICIAS",Telemundo. 
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/emswotla8420te48pcu7q/Telesur.jpg?rlkey=um4twz1znnmif4vdaw2wrxgrs&st=7f6fw8a1&dl=0 " group-title="NOTICIAS",Tele.sur
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q2jg5ri7kke7r977cge8p/24-Hs-Chile.jpg?rlkey=6r1arepmizy0o907ljp6r8vlc&st=0z9m0zic&dl=0 " group-title="NOTICIAS",24 Hs. Chile
+https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/188786
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h65ss20xexsxgtr5cstqp/Record-News.jpg?rlkey=viups76ba4rxn1ey04x9tkw6b&st=w6it08x0&dl=0 " group-title="NOTICIAS",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pnho6kf14h2ujt59ywbxn/NTN24.jpg?rlkey=nb28cprdv66c6anzpiuh2t0hu&st=8t1hru3z&dl=0 " group-title="NOTICIAS",NTN 24 
+https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/133
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/34a5ek0u2vu37l6xuz8uz/Cable-Noticias.jpg?rlkey=2mjaafe41pucijyvb52gl0aap&st=ofs3vxoc&dl=0 " group-title="NOTICIAS",Cable Noticias
+https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189469
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/emswotla8420te48pcu7q/Telesur.jpg?rlkey=um4twz1znnmif4vdaw2wrxgrs&st=7f6fw8a1&dl=0 " group-title="NOTICIAS",Telesur
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/194526
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/13cewdxant67ggudlgwm2/24-Hs-Espa-a.jpg?rlkey=n8a95z3mhywt68c6h75hc9z25&st=fz1as2xs&dl=0 " group-title="NOTICIAS",24 Hs. España
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q2jg5ri7kke7r977cge8p/24-Hs-Chile.jpg?rlkey=6r1arepmizy0o907ljp6r8vlc&st=0z9m0zic&dl=0 " group-title="NOTICIAS",24 Hs. Chile
-https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/188786
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tudzekxsxbc2bnnlocwwa/3-24-Espa-a.jpg?rlkey=w99bib5x4376b3a721bcfma5k&st=durddkkz&dl=0 " group-title="NOTICIAS",3/24 Noticias
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2guf5kgo28wktph1ws7a2/Televisa.jpg?rlkey=n0hj5smjj6qpzc6o17gh18in2&st=1p3atjch&dl=0 " group-title="NOTICIAS",Televisa
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/547
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zfsl2koh538z470c4c5ih/Rai-24-Horas.jpg?rlkey=121dz48zpwj0mmktenoey76do&st=b9juudps&dl=0 " group-title="NOTICIAS",Rai 24 Horas
-https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/1496
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xa8js5bg4q3p2lyhh7cic/Euronews.jpg?rlkey=kjy6t7j9ufmxb6e2z298o788o&st=2h841icr&dl=0 " group-title="NOTICIAS",Euronews
-https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/1505
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1497284vktjxn98t9glfq/Estrella-News.jpg?rlkey=u7wcuksnqrd2izwo6a42cjjoh&st=ko9jwa0y&dl=0 " group-title="NOTICIAS",Estrella News
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1vwqm1lquwsr6y7fk1cb6/Eurochannel.jpg?rlkey=mmbrkkxt4qc1gb74frfri501u&st=24feqgc6&dl=0 " group-title="NOTICIAS",Eurochannel
-http://liketv.pro:80/nicolasquintero/nicolas486/17612.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/34a5ek0u2vu37l6xuz8uz/Cable-Noticias.jpg?rlkey=2mjaafe41pucijyvb52gl0aap&st=ofs3vxoc&dl=0 " group-title="NOTICIAS",Cable Noticias
-https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189469
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3r38oq9nmezes3hb40j2t/Galavision.jpg?rlkey=4apgzt3gst03krumqhpt8paez&st=s78l9wb2&dl=0 " group-title="NOTICIAS",Galavision
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/269724
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/toweut8rwlwamy4vn7v02/Univision.jpg?rlkey=8q2dykb83gezuqoss3j8h2rhd&st=0fanyer9&dl=0 " group-title="NOTICIAS",Univision
 http://liketv.pro:80/nicolasquintero/nicolas486/184116.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zfsl2koh538z470c4c5ih/Rai-24-Horas.jpg?rlkey=121dz48zpwj0mmktenoey76do&st=b9juudps&dl=0 " group-title="NOTICIAS",Rai 24 Horas
+https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/1496
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xa8js5bg4q3p2lyhh7cic/Euronews.jpg?rlkey=kjy6t7j9ufmxb6e2z298o788o&st=2h841icr&dl=0 " group-title="NOTICIAS",Euronews
+https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/1505
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1vwqm1lquwsr6y7fk1cb6/Eurochannel.jpg?rlkey=mmbrkkxt4qc1gb74frfri501u&st=24feqgc6&dl=0 " group-title="NOTICIAS",Eurochannel
+http://liketv.pro:80/nicolasquintero/nicolas486/17612.ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1igv76p3zi7h5ezlykepj/Bein-Sports.jpg?rlkey=b899rqo5phmawm47e6vtb9da2&st=1sotwrej&dl=0 " group-title="DEPORTES",Bein.Sports
@@ -216,7 +228,7 @@ https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189175
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/138834
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ovbkr88ztx0ktlnc8sbqj/Fox-Sports-3.jpg?rlkey=oul96rkiegoynefzv69189ul0&st=o1rhu5cu&dl=0 " group-title="DEPORTES",Fox.Sports 3
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189452
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iukzb4b3hec302d6gn7rq/TyC-Sports.jpg?rlkey=swoktxcfyrxxww200u5tm7dz5&st=ypc1jisx&dl=0 " group-title="DEPORTES",TyC Sports 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iukzb4b3hec302d6gn7rq/TyC-Sports.jpg?rlkey=swoktxcfyrxxww200u5tm7dz5&st=ypc1jisx&dl=0 " group-title="DEPORTES",TyC Sports. 
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189455
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ksjy0geoycj71f4uxeann/ESPN-Premium.jpg?rlkey=8lbufo3fhsietqk0mzh9e235u&st=m6bibzdu&dl=0 " group-title="DEPORTES",ESPN + 1
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/136335
@@ -306,10 +318,18 @@ https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189788
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/76whmjippj8urf2wc4qi7/Boing.jpg?rlkey=aj9z2btju0ec163v5tt2zpi8b&st=3ox8ocne&dl=0 " group-title="INFANTILES",Boing
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189796
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/udlkpnmpx5ud77bw3c5nv/Batman.jpg?rlkey=vpejctwi8wmflara6yu8dvaip&st=3bi7zrbx&dl=0 " group-title="INFANTILES",Batman
+http://canal-pro.xyz:8080/933032805tv/83e4jg/250513
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6hdaysbs1d1ycwgxmi2r6/Caballeros-del-Zodiaco.jpg?rlkey=n98w4c1z7t6as46hcm7hgyt26&st=o6qpllsp&dl=0 " group-title="INFANTILES",Cab del Zodiaco
+http://canal-pro.xyz:8080/933032805tv/83e4jg/773
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qxli23psqxil2xbccczts/Mr-Bean.jpg?rlkey=m7k9ddn8vkoylb2qwjsa3inbp&st=laym19tx&dl=0 " group-title="INFANTILES",Mr Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mygy0f7fxn2aqobm9c98n/El-Pajaro-Loco.jpg?rlkey=uyi3t7oq2ue0j8z5msr3azwhu&st=a28oi3is&dl=0 " group-title="INFANTILES",Pajaro Loco
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/222869
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o3lgm8u11mxwfab9pm1zf/Coyote-y-Correcaminos.jpg?rlkey=v3mvqj7zk6ogwelb4c8vhi0zx&st=j40xezlh&dl=0 " group-title="INFANTILES",Correcaminos
+http://canal-pro.xyz:8080/933032805tv/83e4jg/250494
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/04nnotjirst30kzwrx6km/FMH-Kids.jpg?rlkey=ti2n51hyuy26n9l9gcc7qbx41&st=27mqy2r4&dl=0" group-title="INFANTILES",FMH Kids
+http://liketv.pro:80/nicolasquintero/nicolas486/27.ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7c4r1pryys2tgzngeogvd/Antistress.jpg?rlkey=4ac19qfu66crc7ucshowmkk7d&st=gyiqid3b&dl=0 " group-title="HOGAR",Antistres
