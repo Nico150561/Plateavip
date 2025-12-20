@@ -38,10 +38,6 @@ https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w1639900869.m3u8
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/259851
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k9fatpvsuk1ohie59jipl/Ch-5-del-Pueblo.jpg?rlkey=wqs50b4qdadk035fs3epfpkll&st=yyyprbqq&dl=0 " group-title="INTERIOR",Ch 5 del Pueblo
-https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9nbsw1mdkl9mlac4ed5wc/Canal-8-Rosario.jpg?rlkey=f6ihzuh9eksa543uhq9lro0m1&st=ldixtifw&dl=0 " group-title="INTERIOR",Ch 8 Rosario
-https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vocws8hn85wzzlo3f0p77/Ch-Platea-Vip.jpg?rlkey=y2qi2cfup7p0jxu153luqjq4c&st=0154ebcl&dl=0 " group-title="INTERIOR",Ch 11 Platea Vip
 https://stmv6.voxtvhd.com.br/canal11larioja/canal11larioja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ppdx10730f4kl9dvt61v8/TV-Catamarca.jpg?rlkey=d7uop27koe7hftt6k8g6w0ok7&st=27o9ifc5&dl=0 " group-title="INTERIOR",Catamarca
@@ -62,11 +58,11 @@ https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bgiyb85wuugdje094szrx/TV-La-Pampa.jpg?rlkey=lxxy8hoevx5utpi12yyl9oquq&st=ef6sdkg4&dl=0 " group-title="INTERIOR",La Pampa
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qfhm1gwpa76q12b7fk0j9/Ch-9-La-Rioja.jpg?rlkey=82scspltu4e57hy02lxh030fa&st=5bvge2ve&dl=0 " group-title="INTERIOR",La Rioja CH 9
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qfhm1gwpa76q12b7fk0j9/Ch-9-La-Rioja.jpg?rlkey=82scspltu4e57hy02lxh030fa&st=cibczbda&dl=0 " group-title="INTERIOR",La Rioja CH 9
 https://inliveserver.com:1936/12014/12014/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/es3o47p3uxmfpti9c1lkj/Fenix-TV.jpg?rlkey=l9xq0ztz8ywivlvyv154ag079&st=cyytryxw&dl=0 " group-title="INTERIOR",La Rioja Fenix
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mhoy69bf183er86o6yloz/Fenix-La-Rioja.jpg?rlkey=mgn3781suq89yhxrrtn110q5s&st=m9s2lu3s&dl=0 " group-title="INTERIOR",La Rioja Fenix
 https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/chunklist_w1211776453.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0kcqgavkontjsj70hi5z8/Medios-Provincia.jpg?rlkey=2p6ukjsdvknfufewyft4tlo4h&st=jzu02vwu&dl=0 " group-title="INTERIOR",La Rioja CH 13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9x241g10kwb8x8t02e7yy/Ch-13-La-Rioja.jpg?rlkey=ph8yy1vlu8s0gjz7y6vre0om4&st=3mn80z3g&dl=0 " group-title="INTERIOR",La Rioja CH 13
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/y4ezeyqw7esng2tu7u8go/TV-Mar-del-Plata.jpg?rlkey=mnq5j6a855k7j2a4vmd6dw47f&st=p8c4xh5r&dl=0 " group-title="INTERIOR",Mar del Plata 
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
@@ -88,6 +84,10 @@ https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0323
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0iay6wnwzyj1nmg4m101k/TV-Santa-Fe.jpg?rlkey=t6lhnuf63c7l0bk1nuwf2c1xr&st=nmj6x51l&dl=0 " group-title="INTERIOR",Santa Fe
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k9fatpvsuk1ohie59jipl/Ch-5-del-Pueblo.jpg?rlkey=wqs50b4qdadk035fs3epfpkll&st=y2sskdma&dl=0 " group-title="INTERIOR", Ch 5 Alcorta
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/06vcvoueidp5z9tr7y8x2/Ch-8-Rosario.jpg?rlkey=c0v0devnk3d7cte22912e2kgq&st=n2h8xhb6&dl=0 " group-title="INTERIOR",Ch 8 Rosario
+https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/y3sbh0bcnzgmojb435493/TV-Sgo-del-Estero.jpg?rlkey=xud5810a4inhnrcca15dbld57&st=9wghx7lo&dl=0 " group-title="INTERIOR",Sgo del Estero
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oi359oxf56n9coquk5efw/TV-T-del-Fuego.jpg?rlkey=1o65lblu7gg11twj7bjooit1z&st=s9ziyzic&dl=0 " group-title="INTERIOR",Tierra del Fuego 
