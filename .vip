@@ -244,6 +244,12 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0
 http://liketv.pro:80/nicolasquintero/nicolas486/132.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 3
 http://liketv.pro:80/nicolasquintero/nicolas486/226.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 4
+http://liketv.pro:80/nicolasquintero/nicolas486/8670.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 5
+http://liketv.pro:80/nicolasquintero/nicolas486/133.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 6
+http://liketv.pro:80/nicolasquintero/nicolas486/8673.ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9azt22wyer3eg3kwczh0x/Baby-TV.jpg?rlkey=mmzmgaockmvrio0pwrzv90bp7&st=naddudh6&dl=0 " group-title="INFANTILES",Baby TV
