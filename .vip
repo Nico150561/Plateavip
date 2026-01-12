@@ -1,6 +1,6 @@
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ayo89kys50vmxtfy2x1tu/Todo-Noticias.jpg?rlkey=jkcu4ve0502sbsquc9886nhts&st=qxoizvqg&dl=0 " group-title="NACIONALES",T N
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ayo89kys50vmxtfy2x1tu/Todo-Noticias.jpg?rlkey=jkcu4ve0502sbsquc9886nhts&st=qxoizvqg&dl=0 " group-title="NACIONALES",T.N.
 http://liketv.pro:80/nicolasquintero/nicolas486/102.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vfnl0kvcjf5rqp4kb0jv7/La-Nacion.jpg?rlkey=jdgwh4dsmrc7pnrbxhdd7evvp&st=xbjpcx7t&dl=0 " group-title="NACIONALES",La Nacion. +
 http://liketv.pro:80/nicolasquintero/nicolas486/91.ts
@@ -53,7 +53,7 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ieu1p6qty4m16ck1slrcx/TV-Entre-Rios.jpg?rlkey=eivqd5bbjidq89sogfiidj1vt&st=2lfkqs9z&dl=0 " group-title="INTERIOR",Entre Rios
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/mmyxb8xoiv7d2sw1md7mw/TV-Formosa.jpg?rlkey=3001lqr1xnbv8d9pdl8a6vvlg&st=a56oegqv&dl=0" group-title="INTERIOR",Formosa
-https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sw2qqnmngl1dttj210zvw/TV-Jujuy.jpg?rlkey=k08anu7ljhefmq9p6scv3pixc&st=pklw8way&dl=0 " group-title="INTERIOR",Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bgiyb85wuugdje094szrx/TV-La-Pampa.jpg?rlkey=lxxy8hoevx5utpi12yyl9oquq&st=ef6sdkg4&dl=0 " group-title="INTERIOR",La Pampa
@@ -73,17 +73,17 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lx3l1wb5t9dcyv16z5meo/TV-Neuquen.jpg?rlkey=9ugqjmfefa47u4e14fb76ipmm&st=0v4oa71p&dl=0 " group-title="INTERIOR",Neuquen
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n6hiyfnm0iemdwb4rxiba/TV-Rio-Negro.jpg?rlkey=mz1dmcywa05i7aqc2e2hj0d7q&st=ualxh4xq&dl=0 " group-title="INTERIOR",Rio Negro 
-https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/chunklist_w1362785748_b921072_tkd293emF0b2tlbmVuZHRpbWU9MTc2MDk3MDg0MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9S0UyMDhjT2JCaXNheGlPMWtDSV9IN3NIWWh5MHR0N2l1dDVzdGR2cDhMVT0=.m3u8
+https://smt-usr-edge01.sensa.com.ar/output/SMT3/GRD/output.mpd
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o65b7gbnq2lep04mh4gj8/TV-Salta.jpg?rlkey=7dootwox774mhees6b3vp6dq0&st=itc0kkak&dl=0 " group-title="INTERIOR",Salta
-https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mat0s6tbs2utga44i03hr/TV-San-Juan.jpg?rlkey=zad60pffwnifaun8de4ilt6xk&st=1tip0kkd&dl=0 " group-title="INTERIOR",San Juan
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a4nk2ialv4nujenrjw0eu/TV-San-Luis.jpg?rlkey=qn6os0z6z3sxnemwqfv5x6ym5&st=qjppz60r&dl=0 " group-title="INTERIOR",San Luis
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rrom6sdapxkq92szaax8o/TV-Santa-Cruz.jpg?rlkey=6igof4k7ca6gud3pd6o3azgvh&st=kstzi5uy&dl=0 " group-title="INTERIOR",Santa Cruz 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0323
+https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0iay6wnwzyj1nmg4m101k/TV-Santa-Fe.jpg?rlkey=t6lhnuf63c7l0bk1nuwf2c1xr&st=nmj6x51l&dl=0 " group-title="INTERIOR",Santa Fe
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k9fatpvsuk1ohie59jipl/Ch-5-del-Pueblo.jpg?rlkey=wqs50b4qdadk035fs3epfpkll&st=y2sskdma&dl=0 " group-title="INTERIOR", Ch 5 Alcorta
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/06vcvoueidp5z9tr7y8x2/Ch-8-Rosario.jpg?rlkey=c0v0devnk3d7cte22912e2kgq&st=n2h8xhb6&dl=0 " group-title="INTERIOR",Ch 8 Rosario
@@ -214,13 +214,13 @@ http://liketv.pro:80/nicolasquintero/nicolas486/16982.ts
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/93
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ycf2wtexr9nw5kadj2e3c/ESPN-3.jpg?rlkey=9qsseebdlupm9uife759h8vdj&st=ta1rb6u3&dl=0 " group-title="DEPORTES",ESPN.3
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/189445
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/69s2yre22jod418lrw3cg/ESPN-4.jpg?rlkey=yh69ucjp7l5dm8s2mhqmz97wc&st=1o4ng3kj&dl=0 " group-title="DEPORTES",ESPN 4.
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/69s2yre22jod418lrw3cg/ESPN-4.jpg?rlkey=yh69ucjp7l5dm8s2mhqmz97wc&st=1o4ng3kj&dl=0 " group-title="DEPORTES",ESPN.4
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/143934
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g8g02y5ywm6zxi7nrso1f/ESPN-5.jpg?rlkey=8ovg8h3xyfceickc0wa3jw1sk&st=lmo94wy2&dl=0 " group-title="DEPORTES",ESPN 5.
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g8g02y5ywm6zxi7nrso1f/ESPN-5.jpg?rlkey=8ovg8h3xyfceickc0wa3jw1sk&st=lmo94wy2&dl=0 " group-title="DEPORTES",ESPN.5
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/136328
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lhcb4abeee0p9pxc1kj5p/ESPN-6.jpg?rlkey=v096ei2x8vbp1olxdoginu9hc&st=g5vcwpf8&dl=0 " group-title="DEPORTES",ESPN 6.
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lhcb4abeee0p9pxc1kj5p/ESPN-6.jpg?rlkey=v096ei2x8vbp1olxdoginu9hc&st=g5vcwpf8&dl=0 " group-title="DEPORTES",ESPN.6
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/136329
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cj3tnlpskulpwtqdxk4ud/ESPN-7.jpg?rlkey=4daeq2t5na4ripkzoux1mtok9&st=mte7z7nh&dl=0 " group-title="DEPORTES",ESPN 7.
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cj3tnlpskulpwtqdxk4ud/ESPN-7.jpg?rlkey=4daeq2t5na4ripkzoux1mtok9&st=mte7z7nh&dl=0 " group-title="DEPORTES",ESPN.7
 https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/136330
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nwbwxozbdj6r9ucabocg9/Fox-Sports.jpg?rlkey=smhxqbxm9jeor97079wub8nki&st=3jvznuvh&dl=0 " group-title="DEPORTES",Fox Sports 
 http://liketv.pro:80/nicolasquintero/nicolas486/11852.ts
@@ -234,9 +234,9 @@ http://canal-pro.xyz:8080/933032805tv/83e4jg/555
 http://liketv.pro:80/nicolasquintero/nicolas486/143.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ksjy0geoycj71f4uxeann/ESPN-Premium.jpg?rlkey=8lbufo3fhsietqk0mzh9e235u&st=m6bibzdu&dl=0 " group-title="DEPORTES",ESPN + 2
 http://liketv.pro:80/nicolasquintero/nicolas486/17415.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/haj6ciqfewo32rh6voeko/TNT-Sports.jpg?rlkey=ochrxwyrh5dzefam1avojgp44&st=2qamw4et&dl=0 " group-title="DEPORTES",TNT Sports 1
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/haj6ciqfewo32rh6voeko/TNT-Sports.jpg?rlkey=ochrxwyrh5dzefam1avojgp44&st=2qamw4et&dl=0 " group-title="DEPORTES",TNT Sports.1
 http://liketv.pro:80/nicolasquintero/nicolas486/8714.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/haj6ciqfewo32rh6voeko/TNT-Sports.jpg?rlkey=ochrxwyrh5dzefam1avojgp44&st=rv98vvru&dl=0 " group-title="DEPORTES",TNT Sports 2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/haj6ciqfewo32rh6voeko/TNT-Sports.jpg?rlkey=ochrxwyrh5dzefam1avojgp44&st=rv98vvru&dl=0 " group-title="DEPORTES",TNT Sports.2
 http://liketv.pro:80/nicolasquintero/nicolas486/8715.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 1
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
@@ -245,11 +245,11 @@ http://liketv.pro:80/nicolasquintero/nicolas486/132.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 3
 http://liketv.pro:80/nicolasquintero/nicolas486/226.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 4
-http://liketv.pro:80/nicolasquintero/nicolas486/8670.ts
+https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/136353
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 5
 http://liketv.pro:80/nicolasquintero/nicolas486/133.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jhktkcf7jwdw39a37t5en/Eventos-Sports.jpg?rlkey=il1h5seb1vlc8p4pgprfv2oag&st=9z7q1se0&dl=0 " group-title="DEPORTES",Eventos 6
-http://liketv.pro:80/nicolasquintero/nicolas486/8673.ts
+https://b4u52ad16s3f.uk:443/NicolasQuinteros62/ph6yU59ZDZ/136354
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9azt22wyer3eg3kwczh0x/Baby-TV.jpg?rlkey=mmzmgaockmvrio0pwrzv90bp7&st=naddudh6&dl=0 " group-title="INFANTILES",Baby TV
